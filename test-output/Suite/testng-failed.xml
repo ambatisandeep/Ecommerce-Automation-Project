@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="brandName" value="Honor"/>
+    <parameter name="Product" value="Phones"/>
+    <parameter name="ram" value="4 GB"/>
+    <parameter name="mobileName" value="Honor 20i (Phantom Blue, 128 GB)"/>
+    <classes>
+      <class name="com.flipkart.testcases.MobileSearchPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="TestCase"/>
+        </methods>
+      </class> <!-- com.flipkart.testcases.MobileSearchPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

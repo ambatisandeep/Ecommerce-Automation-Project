@@ -1,5 +1,6 @@
 package com.flipkart.testcases;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -12,11 +13,14 @@ import com.flipkart.pages.MoblieSearchPage;
 
 public class MobileSearchPageTest extends TestBase {
 	
+	Logger logger =Logger.getLogger(MobileSearchPageTest.class);
+	
 	@BeforeMethod
 	public void setUp() {
 		intialization();
 		//Closing Popup
 		driver.findElement(By.xpath("//*[@class='_2AkmmA _29YdH8']")).click();
+		logger.info("PopUp Closed");
 		}
 
 	@Test

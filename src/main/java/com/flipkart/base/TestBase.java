@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -15,6 +16,7 @@ public class TestBase {
 
 	public static WebDriver driver;
 	public static Properties prop;
+	static Logger logger  = Logger.getLogger(TestBase.class);
 
 	public TestBase() {
 		try {
@@ -40,7 +42,9 @@ public class TestBase {
 		}
 		String url = prop.getProperty("url");
 		driver.get(url);
+		logger.info("Opened URL");
 		driver.manage().window().maximize();
+		logger.info("Window Maxmize");
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

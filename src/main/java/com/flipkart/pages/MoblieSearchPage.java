@@ -2,22 +2,22 @@ package com.flipkart.pages;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.flipkart.base.LogFile;
 import com.flipkart.base.TestBase;
 import com.flipkart.utilitesPage.Testutil;
 
 
 public class MoblieSearchPage extends TestBase {
-	
+
 	Logger logger =Logger.getLogger(MoblieSearchPage.class);
-	
+
 	public linksAndButtons buttonsObj;
-	
+
 	public Testutil testUtil;
 
 	public MoblieSearchPage(WebDriver driver) {
@@ -25,7 +25,7 @@ public class MoblieSearchPage extends TestBase {
 		buttonsObj = new linksAndButtons(driver);
 		testUtil = new Testutil();
 	}
-//commit
+	//commit
 	public linksAndButtons getbuttonsObj() {
 		return buttonsObj;
 	}
@@ -57,13 +57,13 @@ public class MoblieSearchPage extends TestBase {
 	public void searchProducts(String Product) throws InterruptedException  {
 		linksAndButtons.searchBar.click();
 		logger.info("Clicked Product Search Bar");
-		
+
 		linksAndButtons.searchBar.sendKeys(Product);
 		logger.info("Search Product " + Product);
-		
+
 		linksAndButtons.searchButton.click();
 		logger.info("Search Button Clicked");
-//		Thread.sleep(2000);
+		//		Thread.sleep(2000);
 	} 
 
 	//Selection of Ram Types
@@ -78,7 +78,7 @@ public class MoblieSearchPage extends TestBase {
 			logger.info("6 GB and Above Ram Selected");
 		}else {
 			driver.findElement(By.xpath(ramGB)).click();
-			logger.info(ram + " Selected ");
+			logger.info(ram + " Ram Selected ");
 
 		}
 		return ram;
@@ -88,36 +88,41 @@ public class MoblieSearchPage extends TestBase {
 	public  String brandSelection (String brandName) throws InterruptedException{
 
 		String brandVisibleString = "//*[contains(text(),'6 GB')]/following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']";
-
-		WebElement brandVisibleElement = driver.findElement(By.xpath(brandVisibleString));
-		brandVisibleElement.isDisplayed();
-		brandVisibleElement.isEnabled();
-		if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled()){
-			brandVisibleElement.click();
+		try {
+			WebElement brandVisibleElement = driver.findElement(By.xpath(brandVisibleString));
+			testUtil.explicitWait(driver, brandVisibleElement, 10);
+			boolean flag = brandVisibleElement.isDisplayed();
+			logger.info("Element Displayed " + flag);
+			boolean flip = brandVisibleElement.isEnabled();
+			logger.info("Element Displayed " + flip); 
+			if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled())
+				brandVisibleElement.click();
 			logger.info(brandName + " brand mobiles selected ");
-			LogFile.witeLog(brandName + " brand mobiles selected ");
-			} 
-		else {
+
+		}catch (NoSuchElementException e) {
+
 			linksAndButtons.searchBrandBar.click();
-			logger.info("clicked Mobile Search Bar");
-			
+			logger.info(" Clicked Mobile Search Bar ");
+
 			linksAndButtons.searchBrandBar.clear();
-			
+
 			linksAndButtons.searchBrandBar.sendKeys(brandName);
-			logger.info("Searching" + brandName);
+			logger.info(" Searching " + brandName);
 
 			String brandMoreString = "//*[@placeholder='Search Brand']//following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']";
 			WebElement brandMoreElement = driver.findElement(By.xpath(brandMoreString));
 			testUtil.explicitWait(driver, brandMoreElement, 5);
 			brandMoreElement.isDisplayed();
-			System.out.println("Element Displayed");
 			brandMoreElement.isEnabled();
 			brandMoreElement.click();
-			System.out.println("Element Displayed" + brandName);
+			logger.info(brandName + " Brand Selected");
 		}
+
 		return brandName;
+
 	}
-	
+
+
 	public void selectMobile(String mobileName,int tabNum) {
 		driver.findElement(By.xpath("//*[contains(text(),'"+mobileName+"')]")).click();
 		testUtil.switchWindow(tabNum);

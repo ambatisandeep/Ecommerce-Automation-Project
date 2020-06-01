@@ -96,3 +96,94 @@
 2020-06-01 22:29:27 INFO  MoblieSearchPage:65 - Search Button Clicked
 2020-06-01 22:29:32 INFO  MoblieSearchPage:81 - 4 GB Selected 
 2020-06-01 22:29:40 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 22:57:08 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:57:11 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 23:41:07 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 23:41:10 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 23:41:16 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-01 23:41:17 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-01 23:41:17 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-01 23:41:31 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-01 23:48:25 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 23:48:28 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 23:48:41 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-01 23:48:42 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-01 23:48:42 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-01 23:48:52 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-01 23:50:59 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 23:51:02 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 23:51:02 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-01 23:51:02 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-01 23:51:02 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-01 23:51:05 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-01 23:55:19 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 23:55:21 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 23:56:48 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-01 23:56:49 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-01 23:56:49 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-01 23:56:53 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-02 00:01:48 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 00:01:50 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 00:02:44 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 00:02:46 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 00:07:30 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 00:07:32 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 00:07:50 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-02 00:07:50 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-02 00:07:50 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-02 00:08:08 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-02 00:09:04 INFO  MoblieSearchPage:95 - MiVisible
+2020-06-02 00:09:26 INFO  MoblieSearchPage:98 - Mi brand mobiles selected 
+2020-06-02 00:23:09 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 00:23:14 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 00:23:23 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-02 00:23:24 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-02 00:23:24 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-02 00:23:28 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-02 00:24:38 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 00:24:40 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 00:24:51 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-02 00:24:51 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-02 00:24:51 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-02 00:24:54 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-02 00:30:08 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 00:30:11 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 00:31:08 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 00:31:10 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 00:31:32 INFO  MoblieSearchPage:58 - Clicked Product Search Bar
+2020-06-02 00:31:32 INFO  MoblieSearchPage:61 - Search Product Phones
+2020-06-02 00:31:32 INFO  MoblieSearchPage:64 - Search Button Clicked
+2020-06-02 00:32:06 INFO  MoblieSearchPage:80 - 4 GB Selected 
+2020-06-02 00:32:32 INFO  MoblieSearchPage:94 - Element Displayed true
+2020-06-02 00:32:32 INFO  MoblieSearchPage:96 - Element Displayed true
+2020-06-02 00:32:44 INFO  MoblieSearchPage:99 - Mi brand mobiles selected 
+2020-06-02 01:31:52 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 01:31:55 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 01:31:55 INFO  MoblieSearchPage:59 - Clicked Product Search Bar
+2020-06-02 01:31:55 INFO  MoblieSearchPage:62 - Search Product Phones
+2020-06-02 01:31:56 INFO  MoblieSearchPage:65 - Search Button Clicked
+2020-06-02 01:32:47 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 01:32:50 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 01:33:06 INFO  MoblieSearchPage:59 - Clicked Product Search Bar
+2020-06-02 01:33:07 INFO  MoblieSearchPage:62 - Search Product Phones
+2020-06-02 01:33:07 INFO  MoblieSearchPage:65 - Search Button Clicked
+2020-06-02 01:33:11 INFO  MoblieSearchPage:81 - 4 GB Selected 
+2020-06-02 01:34:04 INFO  MoblieSearchPage:95 - Element Displayed true
+2020-06-02 01:34:10 INFO  MoblieSearchPage:97 - Element Displayed true
+2020-06-02 01:35:15 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 01:35:18 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 01:35:30 INFO  MoblieSearchPage:59 - Clicked Product Search Bar
+2020-06-02 01:35:31 INFO  MoblieSearchPage:62 - Search Product Phones
+2020-06-02 01:35:31 INFO  MoblieSearchPage:65 - Search Button Clicked
+2020-06-02 01:35:34 INFO  MoblieSearchPage:81 - 4 GB Selected 
+2020-06-02 01:36:19 INFO  MoblieSearchPage:105 - clicked Mobile Search Bar
+2020-06-02 01:36:38 INFO  MoblieSearchPage:110 - SearchingNokia
+2020-06-02 01:45:29 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 01:45:32 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 01:45:32 INFO  MoblieSearchPage:59 - Clicked Product Search Bar
+2020-06-02 01:45:33 INFO  MoblieSearchPage:62 - Search Product Phones
+2020-06-02 01:45:33 INFO  MoblieSearchPage:65 - Search Button Clicked
+2020-06-02 01:45:35 INFO  MoblieSearchPage:81 - 4 GB Ram Selected 
+2020-06-02 01:45:56 INFO  MoblieSearchPage:105 -  Clicked Mobile Search Bar 
+2020-06-02 01:45:56 INFO  MoblieSearchPage:110 -  Searching ZOPO
+2020-06-02 01:45:56 INFO  MoblieSearchPage:118 - ZOPO Brand Selected

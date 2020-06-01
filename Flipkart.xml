@@ -6,9 +6,11 @@
   		
   		<parameter name="ram" value="4 GB" />
   		
-  		<parameter name="brandName" value="Honor" />
+  		<parameter name="brandName" value="ZOPO" />
   		
-  		<parameter name="mobileName" value="Honor 20i (Phantom Blue, 128 GB)" />
+  		<parameter name="mobileName" value="ZOPO Speed 8 (Black, 32 GB)" />
+  		
+  		<parameter name="tabNum" value="1" />
   		  		
 		
     <classes>

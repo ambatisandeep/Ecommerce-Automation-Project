@@ -11,7 +11,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="TestCase" invocation-numbers="0"/>
+          <include name="TestCase"/>
         </methods>
       </class> <!-- com.flipkart.testcases.MobileSearchPageTest -->
     </classes>

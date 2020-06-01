@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="33394" started-at="2020-06-01T02:19:25 IST" finished-at="2020-06-01T02:19:59 IST">
+  <suite name="Suite" duration-ms="45034" started-at="2020-06-01T22:27:06 IST" finished-at="2020-06-01T22:27:51 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="33394" started-at="2020-06-01T02:19:25 IST" finished-at="2020-06-01T02:19:59 IST">
+    <test name="Test" duration-ms="45034" started-at="2020-06-01T22:27:06 IST" finished-at="2020-06-01T22:27:51 IST">
       <class name="com.flipkart.testcases.MobileSearchPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@5f3a4b84]" name="setUp" is-config="true" duration-ms="10122" started-at="2020-06-01T02:19:25 IST" finished-at="2020-06-01T02:19:35 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@66d3eec0]" name="setUp" is-config="true" duration-ms="18437" started-at="2020-06-01T22:27:06 IST" finished-at="2020-06-01T22:27:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="TestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@5f3a4b84]" name="TestCase" duration-ms="22564" started-at="2020-06-01T02:19:35 IST" finished-at="2020-06-01T02:19:58 IST">
+        <test-method status="FAIL" signature="TestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@66d3eec0]" name="TestCase" duration-ms="24598" started-at="2020-06-01T22:27:25 IST" finished-at="2020-06-01T22:27:49 IST">
           <params>
             <param index="0">
               <value>
@@ -25,37 +25,42 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[Honor]]>
+                <![CDATA[ZOPO]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[Honor 20i (Phantom Blue, 128 GB)]]>
+                <![CDATA[ZOPO Speed 8 (Black, 32 GB)]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
               </value>
             </param>
           </params>
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'6 GB')]/following::div[@title='4 GB']/div/div/label/div[@class='_1p7h2j']"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'6 GB')]/following::div[@title='ZOPO']/div/div/label/div[@class='_1p7h2j']"}
   (Session info: chrome=83.0.4103.61)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'PAVAN', ip: '192.168.43.59', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54785}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: a1e566991653db0d3c90350b0103c5e9
-*** Element info: {Using=xpath, value=//*[contains(text(),'6 GB')]/following::div[@title='4 GB']/div/div/label/div[@class='_1p7h2j']}]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59100}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3024adb7a80600b9dc9547394c7a51c9
+*** Element info: {Using=xpath, value=//*[contains(text(),'6 GB')]/following::div[@title='ZOPO']/div/div/label/div[@class='_1p7h2j']}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'6 GB')]/following::div[@title='4 GB']/div/div/label/div[@class='_1p7h2j']"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'6 GB')]/following::div[@title='ZOPO']/div/div/label/div[@class='_1p7h2j']"}
   (Session info: chrome=83.0.4103.61)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'PAVAN', ip: '192.168.43.59', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54785}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: a1e566991653db0d3c90350b0103c5e9
-*** Element info: {Using=xpath, value=//*[contains(text(),'6 GB')]/following::div[@title='4 GB']/div/div/label/div[@class='_1p7h2j']}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59100}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3024adb7a80600b9dc9547394c7a51c9
+*** Element info: {Using=xpath, value=//*[contains(text(),'6 GB')]/following::div[@title='ZOPO']/div/div/label/div[@class='_1p7h2j']}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -70,8 +75,8 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
 at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at com.flipkart.pages.MoblieSearchPage.ramSelection(MoblieSearchPage.java:69)
-at com.flipkart.testcases.MobileSearchPageTest.TestCase(MobileSearchPageTest.java:36)
+at com.flipkart.pages.MoblieSearchPage.brandSelection(MoblieSearchPage.java:92)
+at com.flipkart.testcases.MobileSearchPageTest.TestCase(MobileSearchPageTest.java:42)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -106,7 +111,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@5f3a4b84]" name="tearDown" is-config="true" duration-ms="658" started-at="2020-06-01T02:19:58 IST" finished-at="2020-06-01T02:19:59 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@66d3eec0]" name="tearDown" is-config="true" duration-ms="1916" started-at="2020-06-01T22:27:50 IST" finished-at="2020-06-01T22:27:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

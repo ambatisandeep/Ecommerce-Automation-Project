@@ -42,9 +42,8 @@ public class TestBase {
 		}
 		String url = prop.getProperty("url");
 		driver.get(url);
-		logger.info("Opened URL");
+		logger.info("Opened URL " + url);
 		driver.manage().window().maximize();
-		logger.info("Window Maxmize");
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

@@ -1,3 +1,98 @@
 2020-06-01 02:19:33 INFO  TestBase:45 - Opened URL
 2020-06-01 02:19:34 INFO  TestBase:47 - Window Maxmize
 2020-06-01 02:19:35 INFO  MobileSearchPageTest:23 - PopUp Closed
+2020-06-01 02:34:32 INFO  TestBase:45 - Opened URL
+2020-06-01 02:34:33 INFO  TestBase:47 - Window Maxmize
+2020-06-01 02:34:35 INFO  MobileSearchPageTest:23 - PopUp Closed
+2020-06-01 20:57:45 INFO  TestBase:45 - Opened URL
+2020-06-01 20:57:46 INFO  TestBase:47 - Window Maxmize
+2020-06-01 20:57:48 INFO  MobileSearchPageTest:23 - PopUp Closed
+2020-06-01 20:57:49 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 20:57:49 INFO  MoblieSearchPage:59 - Searching Product
+2020-06-01 20:57:49 INFO  MoblieSearchPage:61 - Search Button Clicked
+2020-06-01 20:57:55 INFO  MoblieSearchPage:77 - //*[contains(text(),'6 GB')]/following::div[@title='4 GB']/div/div/label/div[@class='_1p7h2j']Selected
+2020-06-01 21:11:31 INFO  TestBase:45 - Opened URLhttps://www.flipkart.com
+2020-06-01 21:24:55 INFO  TestBase:45 - Opened URLhttps://www.flipkart.com
+2020-06-01 21:24:58 INFO  MobileSearchPageTest:26 - PopUp Closed
+2020-06-01 21:24:58 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:24:58 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:24:58 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:25:58 INFO  TestBase:45 - Opened URLhttps://www.flipkart.com
+2020-06-01 21:26:00 INFO  MobileSearchPageTest:26 - PopUp Closed
+2020-06-01 21:26:01 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:26:01 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:26:01 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:26:07 INFO  MoblieSearchPage:79 - 4 GBSelected
+2020-06-01 21:36:02 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 21:36:04 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 21:36:05 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:36:05 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:36:05 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:36:09 INFO  MoblieSearchPage:79 - 4 GB GB Selected 
+2020-06-01 21:36:58 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 21:37:01 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 21:37:01 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:37:01 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:37:01 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:37:04 INFO  MoblieSearchPage:79 - 4 GB GB Selected 
+2020-06-01 21:37:53 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 21:37:56 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 21:37:56 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:37:56 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:37:56 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:38:00 INFO  MoblieSearchPage:79 - 4 GB GB Selected 
+2020-06-01 21:38:49 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 21:38:52 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 21:38:52 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:38:53 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:38:53 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:38:56 INFO  MoblieSearchPage:79 - 4 GB GB Selected 
+2020-06-01 21:42:39 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 21:42:42 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 21:42:42 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:42:42 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:42:42 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:42:46 INFO  MoblieSearchPage:79 - 4 GB GB Selected 
+2020-06-01 21:59:26 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 21:59:29 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 21:59:29 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 21:59:29 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 21:59:29 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 21:59:35 INFO  MoblieSearchPage:79 - 4 GB Selected 
+2020-06-01 22:14:45 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:14:47 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 22:14:48 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 22:14:48 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 22:14:48 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 22:14:52 INFO  MoblieSearchPage:79 - 4 GB Selected 
+2020-06-01 22:16:45 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:16:48 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 22:16:48 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 22:16:48 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 22:16:48 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 22:17:38 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:17:40 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 22:17:41 INFO  MoblieSearchPage:57 - Clicked Product Search Bar
+2020-06-01 22:17:41 INFO  MoblieSearchPage:60 - Search Product Phones
+2020-06-01 22:17:41 INFO  MoblieSearchPage:63 - Search Button Clicked
+2020-06-01 22:17:46 INFO  MoblieSearchPage:79 - 4 GB Selected 
+2020-06-01 22:26:13 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:26:15 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 22:26:15 INFO  MoblieSearchPage:59 - Clicked Product Search Bar
+2020-06-01 22:26:16 INFO  MoblieSearchPage:62 - Search Product Phones
+2020-06-01 22:26:16 INFO  MoblieSearchPage:65 - Search Button Clicked
+2020-06-01 22:26:23 INFO  MoblieSearchPage:81 - 4 GB Selected 
+2020-06-01 22:27:22 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:27:25 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 22:27:25 INFO  MoblieSearchPage:59 - Clicked Product Search Bar
+2020-06-01 22:27:25 INFO  MoblieSearchPage:62 - Search Product Phones
+2020-06-01 22:27:25 INFO  MoblieSearchPage:65 - Search Button Clicked
+2020-06-01 22:27:29 INFO  MoblieSearchPage:81 - 4 GB Selected 
+2020-06-01 22:28:57 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:29:00 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-01 22:29:25 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-01 22:29:25 INFO  MoblieSearchPage:59 - Clicked Product Search Bar
+2020-06-01 22:29:26 INFO  MoblieSearchPage:62 - Search Product Phones
+2020-06-01 22:29:27 INFO  MoblieSearchPage:65 - Search Button Clicked
+2020-06-01 22:29:32 INFO  MoblieSearchPage:81 - 4 GB Selected 
+2020-06-01 22:29:40 INFO  MobileSearchPageTest:26 - Pop Up closed

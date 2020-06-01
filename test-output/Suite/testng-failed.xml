@@ -2,10 +2,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
-    <parameter name="brandName" value="Honor"/>
+    <parameter name="brandName" value="ZOPO"/>
+    <parameter name="tabNum" value="1"/>
     <parameter name="Product" value="Phones"/>
     <parameter name="ram" value="4 GB"/>
-    <parameter name="mobileName" value="Honor 20i (Phantom Blue, 128 GB)"/>
+    <parameter name="mobileName" value="ZOPO Speed 8 (Black, 32 GB)"/>
     <classes>
       <class name="com.flipkart.testcases.MobileSearchPageTest">
         <methods>

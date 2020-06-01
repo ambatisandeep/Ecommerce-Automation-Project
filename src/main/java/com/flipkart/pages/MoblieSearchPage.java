@@ -1,15 +1,20 @@
 package com.flipkart.pages;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
+import com.flipkart.base.LogFile;
 import com.flipkart.base.TestBase;
 import com.flipkart.utilitesPage.Testutil;
 
 
 public class MoblieSearchPage extends TestBase {
+	
+	Logger logger =Logger.getLogger(MoblieSearchPage.class);
 	
 	public linksAndButtons buttonsObj;
 	
@@ -51,9 +56,14 @@ public class MoblieSearchPage extends TestBase {
 	//Clicking search bar & passing product parameter
 	public void searchProducts(String Product) throws InterruptedException  {
 		linksAndButtons.searchBar.click();
+		logger.info("Clicked Product Search Bar");
+		
 		linksAndButtons.searchBar.sendKeys(Product);
+		logger.info("Search Product " + Product);
+		
 		linksAndButtons.searchButton.click();
-		Thread.sleep(2000);
+		logger.info("Search Button Clicked");
+//		Thread.sleep(2000);
 	} 
 
 	//Selection of Ram Types
@@ -65,8 +75,11 @@ public class MoblieSearchPage extends TestBase {
 
 		if(ram.equals("6 GB")){
 			driver.findElement(By.xpath(ram6GB)).click();
+			logger.info("6 GB and Above Ram Selected");
 		}else {
 			driver.findElement(By.xpath(ramGB)).click();
+			logger.info(ram + " Selected ");
+
 		}
 		return ram;
 	}
@@ -81,11 +94,17 @@ public class MoblieSearchPage extends TestBase {
 		brandVisibleElement.isEnabled();
 		if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled()){
 			brandVisibleElement.click();
+			logger.info(brandName + " brand mobiles selected ");
+			LogFile.witeLog(brandName + " brand mobiles selected ");
 			} 
 		else {
 			linksAndButtons.searchBrandBar.click();
+			logger.info("clicked Mobile Search Bar");
+			
 			linksAndButtons.searchBrandBar.clear();
+			
 			linksAndButtons.searchBrandBar.sendKeys(brandName);
+			logger.info("Searching" + brandName);
 
 			String brandMoreString = "//*[@placeholder='Search Brand']//following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']";
 			WebElement brandMoreElement = driver.findElement(By.xpath(brandMoreString));

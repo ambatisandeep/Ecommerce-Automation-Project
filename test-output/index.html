@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite">
-              <span class="suite-name border-passed">Suite</span>
+              <span class="suite-name border-failed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -59,7 +59,7 @@
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="group-Suite">
-                    <span>0 groups</span>
+                    <span>1 group</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">6 methods, 1 failed,   5 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))">compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,7 +116,27 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="TestCase(Phones, 4 GB, ZOPO, ZOPO Speed 8 (Black, 32 GB), 1)">TestCase(Phones, 4 GB, ZOPO, ZOPO Speed 8 (Black, 32 GB), 1)</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="brandSelectionTest(Phones, 4 GB, Nokia)">brandSelectionTest(Phones, 4 GB, Nokia)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="ramSelectionTest(Phones, 4 GB)">ramSelectionTest(Phones, 4 GB)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="searchProductsTest(Phones)">searchProductsTest(Phones)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="selectMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))">selectMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="validatingUrlTest">validatingUrlTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -117,6 +151,49 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.flipkart.testcases.MobileSearchPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))">
+                  </a> <!-- compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB)) -->
+                  <span class="method-name">compareMobileTest</span>
+                  <span class="parameters">(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&apos;fk-compare-page&apos;]/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input&quot;}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.0.6&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52203}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f3346e33cbed010cf93556007a63ef5a
+*** Element info: {Using=xpath, value=//*[@id=&apos;fk-compare-page&apos;]/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.click(Unknown Source)
+	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:156)
+	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:88)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -125,10 +202,41 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TestCase(Phones, 4 GB, ZOPO, ZOPO Speed 8 (Black, 32 GB), 1)">
-                  </a> <!-- TestCase(Phones, 4 GB, ZOPO, ZOPO Speed 8 (Black, 32 GB), 1) -->
-                  <span class="method-name">TestCase</span>
-                  <span class="parameters">(Phones, 4 GB, ZOPO, ZOPO Speed 8 (Black, 32 GB), 1)</span>
+                  <a name="brandSelectionTest(Phones, 4 GB, Nokia)">
+                  </a> <!-- brandSelectionTest(Phones, 4 GB, Nokia) -->
+                  <span class="method-name">brandSelectionTest</span>
+                  <span class="parameters">(Phones, 4 GB, Nokia)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ramSelectionTest(Phones, 4 GB)">
+                  </a> <!-- ramSelectionTest(Phones, 4 GB) -->
+                  <span class="method-name">ramSelectionTest</span>
+                  <span class="parameters">(Phones, 4 GB)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchProductsTest(Phones)">
+                  </a> <!-- searchProductsTest(Phones) -->
+                  <span class="method-name">searchProductsTest</span>
+                  <span class="parameters">(Phones)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="selectMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))">
+                  </a> <!-- selectMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB)) -->
+                  <span class="method-name">selectMobileTest</span>
+                  <span class="parameters">(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validatingUrlTest">
+                  </a> <!-- validatingUrlTest -->
+                  <span class="method-name">validatingUrlTest</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -144,11 +252,10 @@
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
-    &lt;parameter name=&quot;brandName&quot; value=&quot;ZOPO&quot;/&gt;
-    &lt;parameter name=&quot;tabNum&quot; value=&quot;1&quot;/&gt;
+    &lt;parameter name=&quot;brandName&quot; value=&quot;Nokia&quot;/&gt;
     &lt;parameter name=&quot;Product&quot; value=&quot;Phones&quot;/&gt;
     &lt;parameter name=&quot;ram&quot; value=&quot;4 GB&quot;/&gt;
-    &lt;parameter name=&quot;mobileName&quot; value=&quot;ZOPO Speed 8 (Black, 32 GB)&quot;/&gt;
+    &lt;parameter name=&quot;mobileName&quot; value=&quot;Nokia 6.2 (Black, 64 GB)&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.flipkart.testcases.MobileSearchPageTest&quot;/&gt;
     &lt;/classes&gt;
@@ -174,6 +281,14 @@
             <span class="header-content">Groups for Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">MobileSelection</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchProductsTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="times-Suite" class="panel">
@@ -190,16 +305,36 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(6);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TestCase')
+data.setCell(0, 1, 'compareMobileTest')
 data.setCell(0, 2, 'com.flipkart.testcases.MobileSearchPageTest')
-data.setCell(0, 3, 28614);
+data.setCell(0, 3, 43621);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'selectMobileTest')
+data.setCell(1, 2, 'com.flipkart.testcases.MobileSearchPageTest')
+data.setCell(1, 3, 23369);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'brandSelectionTest')
+data.setCell(2, 2, 'com.flipkart.testcases.MobileSearchPageTest')
+data.setCell(2, 3, 22680);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'ramSelectionTest')
+data.setCell(3, 2, 'com.flipkart.testcases.MobileSearchPageTest')
+data.setCell(3, 3, 1368);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'searchProductsTest')
+data.setCell(4, 2, 'com.flipkart.testcases.MobileSearchPageTest')
+data.setCell(4, 3, 322);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'validatingUrlTest')
+data.setCell(5, 2, 'com.flipkart.testcases.MobileSearchPageTest')
+data.setCell(5, 3, 22);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 28 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -231,12 +366,74 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">TestCase(Phones, 4 GB, ZOPO, ZOPO Speed 8 (Black, 32 GB), 1)</span>
-                <span class="method-start">11530 ms</span>
+                <span class="method-name">validatingUrlTest</span>
+                <span class="method-start">9061 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">40151 ms</span>
+                <span class="method-start">9089 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">11947 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">searchProductsTest(Phones)</span>
+                <span class="method-start">20308 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">20636 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">23761 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ramSelectionTest(Phones, 4 GB)</span>
+                <span class="method-start">31982 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">33353 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">36028 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">brandSelectionTest(Phones, 4 GB, Nokia)</span>
+                <span class="method-start">44354 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">67037 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">70597 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">selectMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</span>
+                <span class="method-start">89225 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">112596 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">115670 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</span>
+                <span class="method-start">126345 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">169977 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

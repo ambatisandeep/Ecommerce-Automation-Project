@@ -187,3 +187,356 @@
 2020-06-02 01:45:56 INFO  MoblieSearchPage:105 -  Clicked Mobile Search Bar 
 2020-06-02 01:45:56 INFO  MoblieSearchPage:110 -  Searching ZOPO
 2020-06-02 01:45:56 INFO  MoblieSearchPage:118 - ZOPO Brand Selected
+2020-06-02 15:10:39 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 15:10:42 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 15:10:43 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 15:10:43 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 15:10:43 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 15:11:50 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 15:11:52 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 15:11:53 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 15:11:53 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 15:11:53 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 15:13:39 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 15:13:42 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 15:13:42 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 15:13:42 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 15:13:43 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 15:13:47 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 15:14:08 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 15:14:08 INFO  MoblieSearchPage:129 -  Searching ZOPO
+2020-06-02 15:14:59 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 15:15:01 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 15:15:02 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 15:15:02 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 15:15:02 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 15:15:05 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 15:15:26 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 15:15:26 INFO  MoblieSearchPage:129 -  Searching ZOPO
+2020-06-02 15:16:53 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 15:16:56 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 15:16:56 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 15:16:57 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 15:16:57 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 15:17:00 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 15:17:20 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 15:17:21 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 15:17:21 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 15:18:21 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 15:18:24 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 15:18:24 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 15:18:24 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 15:18:25 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 15:18:27 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 15:18:48 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 15:18:48 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 15:18:49 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 15:18:52 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 15:18:52 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 15:20:03 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 15:20:05 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 15:20:06 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 15:20:06 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 15:20:06 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 15:20:09 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 15:20:29 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 15:20:29 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 15:20:30 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 15:20:33 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 15:20:33 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 21:49:07 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 21:49:10 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 21:49:10 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 21:49:11 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 21:49:11 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 21:49:15 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 21:49:35 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 21:49:35 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 21:49:36 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 21:49:39 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 21:49:39 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 21:50:43 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 21:50:46 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 21:50:46 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 21:50:46 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 21:50:46 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 21:52:21 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 21:52:41 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 21:52:44 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 21:52:44 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 21:52:44 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 21:52:44 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 21:52:48 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 21:53:08 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 21:53:08 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 21:53:08 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 21:53:12 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 21:53:12 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 21:55:40 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 21:55:43 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 21:55:43 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 21:55:43 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 21:55:43 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 21:55:55 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 21:56:15 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 21:56:15 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 21:56:15 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 21:56:19 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 21:56:19 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 22:03:02 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 22:03:04 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 22:03:04 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 22:03:04 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 22:03:05 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 22:03:11 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 22:03:31 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 22:03:31 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 22:03:32 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 22:03:35 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 22:03:35 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 22:04:19 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 22:31:06 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 22:31:08 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 22:31:08 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 22:31:09 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 22:31:09 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 22:31:13 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 22:31:33 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 22:31:34 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 22:31:34 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 22:31:37 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 22:31:37 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 22:33:14 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 22:33:16 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 22:33:17 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 22:33:17 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 22:33:17 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 22:33:21 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 22:33:41 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 22:33:41 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 22:33:41 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 22:33:45 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 22:33:45 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 22:33:46 INFO  MoblieSearchPage:151 - 
+2020-06-02 22:38:00 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 22:38:02 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 22:38:03 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 22:38:03 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 22:38:03 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 22:38:05 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 22:38:26 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 22:38:26 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 22:38:26 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 22:38:30 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 22:38:30 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 22:38:31 INFO  MoblieSearchPage:151 - 
+2020-06-02 22:44:25 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-02 22:44:27 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-02 22:44:27 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-02 22:44:27 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-02 22:44:27 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-02 22:44:31 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-02 22:44:51 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-02 22:44:52 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-02 22:44:52 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-02 22:44:55 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-02 22:44:55 INFO  MoblieSearchPage:149 - Switched to New Tab
+2020-06-02 22:44:56 INFO  MoblieSearchPage:151 - 
+2020-06-03 00:34:21 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 00:34:23 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-03 00:34:31 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 00:34:33 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-03 00:35:01 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 00:35:03 INFO  MobileSearchPageTest:26 - Pop Up closed
+2020-06-03 15:33:50 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 15:33:57 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 15:33:57 INFO  MoblieSearchPage:78 - Clicked Product Search Bar
+2020-06-03 15:33:57 INFO  MoblieSearchPage:81 - Search Product Phones
+2020-06-03 15:33:57 INFO  MoblieSearchPage:84 - Search Button Clicked
+2020-06-03 15:34:29 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 15:34:32 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 15:35:11 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 15:35:14 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 15:59:34 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 15:59:36 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 15:59:43 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 15:59:45 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 15:59:46 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 15:59:46 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 15:59:46 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 15:59:53 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 15:59:56 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 16:00:23 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 16:00:26 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:10:19 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:10:29 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:10:45 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:10:51 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:10:51 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:10:52 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:10:52 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:11:13 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:11:19 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:11:19 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:11:19 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:11:20 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:11:22 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:14:38 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:14:40 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:14:48 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:14:50 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:14:50 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:14:50 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:14:50 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:16:27 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:16:30 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:16:39 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:16:41 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:16:41 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:16:41 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:16:41 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:16:51 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:16:53 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:18:03 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:18:05 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:18:12 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:18:14 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:18:14 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:18:14 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:18:15 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:18:23 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:18:25 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:29:14 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:29:16 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:29:23 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:29:25 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:29:25 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:29:25 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:29:25 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:29:33 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:29:35 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:29:35 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:29:35 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:29:35 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:29:37 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:29:57 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 20:29:57 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 20:29:58 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 20:31:55 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:31:57 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:32:07 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:32:09 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:32:09 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:32:09 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:32:09 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:32:17 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:32:19 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:32:19 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:32:19 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:32:19 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:32:20 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:32:40 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 20:32:41 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 20:32:41 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 20:35:19 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:35:22 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:35:29 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:35:31 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:35:31 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:35:31 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:35:31 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:35:38 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:35:41 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:35:41 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:35:41 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:35:41 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:35:42 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:35:49 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:35:51 INFO  MobileSearchPageTest:31 - Pop Up closed
+2020-06-03 20:35:52 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:35:52 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:35:52 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:35:53 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:36:14 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 20:36:14 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 20:36:14 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 20:47:23 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:47:26 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:47:33 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:47:36 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:47:36 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:47:36 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:47:36 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:47:44 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:47:46 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:47:46 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:47:46 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:47:46 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:47:48 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:47:55 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:47:57 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:47:57 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:47:57 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:47:57 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:47:59 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:48:19 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 20:48:19 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 20:48:19 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 20:48:26 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:48:29 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:48:29 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:48:29 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:48:29 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:48:30 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:48:50 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 20:48:51 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 20:48:51 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 20:48:51 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-03 20:48:51 INFO  MoblieSearchPage:148 - Switched to New Tab
+2020-06-03 20:48:51 INFO  MoblieSearchPage:150 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-03 20:59:10 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:59:12 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:59:21 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:59:24 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:59:24 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:59:24 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:59:24 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:59:33 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:59:35 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:59:35 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:59:35 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:59:36 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:59:37 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 20:59:45 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 20:59:48 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 20:59:48 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 20:59:48 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 20:59:48 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 20:59:50 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 21:00:10 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 21:00:10 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 21:00:10 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 21:00:27 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 21:00:32 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 21:00:33 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 21:00:33 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 21:00:33 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 21:00:35 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 21:00:55 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 21:00:55 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 21:00:55 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 21:00:56 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-03 21:00:56 INFO  MoblieSearchPage:148 - Switched to New Tab
+2020-06-03 21:00:56 INFO  MoblieSearchPage:150 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-03 21:01:07 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-03 21:01:10 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-03 21:01:10 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-03 21:01:10 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-03 21:01:10 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-03 21:01:12 INFO  MoblieSearchPage:100 - 4 GB Ram Selected 
+2020-06-03 21:01:32 INFO  MoblieSearchPage:124 -  Clicked Mobile Search Bar 
+2020-06-03 21:01:32 INFO  MoblieSearchPage:129 -  Searching Nokia
+2020-06-03 21:01:33 INFO  MoblieSearchPage:137 - Nokia Brand Selected
+2020-06-03 21:01:33 INFO  MoblieSearchPage:147 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-03 21:01:33 INFO  MoblieSearchPage:148 - Switched to New Tab
+2020-06-03 21:01:33 INFO  MoblieSearchPage:150 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com

@@ -7,7 +7,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import com.flipkart.base.TestBase;
 import com.flipkart.utilitesPage.Testutil;
 
@@ -48,13 +47,31 @@ public class MoblieSearchPage extends TestBase {
 
 		static @FindBy(xpath = "//*[@placeholder='Search Brand']")
 		WebElement searchBrandBar;
-
+		
+		static @FindBy(xpath = "//*[contains(text(),'Compare')]/preceding::div[@class='_1p7h2j']")
+		WebElement compareCheckBox;
+		
+		static @FindBy(xpath = "//*[@class='G934d8']/span")
+		WebElement compareButton;
+		
+		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input")
+		WebElement chooseBrandSearch1;
+		
+		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/div/div[2]")
+		WebElement chooseBrand1;
+		
+		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/span")
+		WebElement chooseProductSearch1;
+		
+		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[2]/div/div[4]")
+		WebElement chooseProduct1;
+		
 	}
 
 
 
 	//Clicking search bar & passing product parameter
-	public void searchProducts(String Product) throws InterruptedException  {
+	public String searchProducts(String Product) {
 		linksAndButtons.searchBar.click();
 		logger.info("Clicked Product Search Bar");
 
@@ -63,8 +80,10 @@ public class MoblieSearchPage extends TestBase {
 
 		linksAndButtons.searchButton.click();
 		logger.info("Search Button Clicked");
-		//		Thread.sleep(2000);
+		
+		return Product;
 	} 
+	
 
 	//Selection of Ram Types
 	public String ramSelection (String ram) {
@@ -85,7 +104,7 @@ public class MoblieSearchPage extends TestBase {
 	}
 
 	//Selection of Brands
-	public  String brandSelection (String brandName) throws InterruptedException{
+	public  String brandSelection (String brandName) {
 
 		String brandVisibleString = "//*[contains(text(),'6 GB')]/following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']";
 		try {
@@ -122,11 +141,34 @@ public class MoblieSearchPage extends TestBase {
 
 	}
 
-
-	public void selectMobile(String mobileName,int tabNum) {
+	//Selecting Preferred Mobile
+	public String selectMobile(String mobileName) {
 		driver.findElement(By.xpath("//*[contains(text(),'"+mobileName+"')]")).click();
-		testUtil.switchWindow(tabNum);
-		driver.close();
+		logger.info("Clicked "+ mobileName);
+		logger.info("Switched to New Tab");
+		String actualTitle=driver.getTitle();
+		logger.info(actualTitle);
+//		Assert.assertEquals(actualTitle, "Vivo Z1Pro ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com");
+		return mobileName;
+	}
+	
+	public void compareMobile() {
+		linksAndButtons.chooseBrandSearch1.click();
+		linksAndButtons.chooseBrandSearch1.clear();
+		linksAndButtons.chooseBrand1.sendKeys("Realme");
+		WebElement chooseBrand1 = driver.findElement(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/div/div[2]"));
+		testUtil.explicitWait(driver,chooseBrand1, 10);
+		chooseBrand1.click();
+		
+		linksAndButtons.chooseProductSearch1.click();
+		linksAndButtons.chooseProductSearch1.clear();
+		linksAndButtons.chooseProductSearch1.sendKeys("Realme");
+		WebElement chooseProduct1 = driver.findElement(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[2]/div/div[4]"));
+		testUtil.explicitWait(driver, chooseProduct1, 10);
+		chooseProduct1.click();
+		
+		
+	
 	}
 
 }

@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite parallel="false" name="Suite">
-  <test name="Test">
-  		<parameter name="Product" value="Phones" />
-  		
-  		<parameter name="ram" value="4 GB" />
-  		
-  		
-  		<parameter name="brandName" value="Nokia" />
-  		
-  		<parameter name="mobileName" value="Nokia 6.2 (Black, 64 GB)" />
-  		
-  		
-  		  		
+	<test name="Test">
+		<parameter name="Product" value="Phones" />
 
-    <classes>
-      <class name="com.flipkart.testcases.MobileSearchPageTest"/>
-    </classes>
-  </test> <!-- Test -->
+		<parameter name="ram" value="4 GB" />
+		
+		<parameter name="brandName" value="Nokia" />
+
+		<parameter name="mobileName"
+			value="Nokia 6.2 (Black, 64 GB)" />
+			
+		<parameter name="tabNum" value="0" />
+
+		<classes>
+			<class name="com.flipkart.testcases.MobileSearchPageTest" >
+			<methods>
+			<include name = "compareMobileTest"/>
+			</methods>
+		</class>
+			<class name="com.flipkart.testcases.MobileSearchPageTest" >
+					<parameter name="Product" value="Phones" />
+
+		<parameter name="ram" value="4 GB" />
+		
+		<parameter name="brandName" value="Nokia" />
+
+		<parameter name="mobileName"
+			value="Nokia 6.1 Plus (Black, 64 GB)" />
+	
+			<methods>
+			<include name = "compareMobileTest"/>
+			</methods>
+		</class>
+		
+		</classes>
+
+
+	</test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -33,13 +33,13 @@ public class MobileSearchPageTest extends TestBase {
 		logger.info("Pop Up closed");
 	}
 
-	@Test(priority=1)
+	@Test
 	public void validatingUrlTest() {
 		String actualTitle=driver.getTitle();
 		Assert.assertEquals(actualTitle, "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!");
 	}
 
-	@Test(priority=2,groups = {"MobileSelection"})
+	@Test
 	@Parameters("Product")
 	public void searchProductsTest(String Product) {
 		//Searching Product
@@ -47,7 +47,7 @@ public class MobileSearchPageTest extends TestBase {
 	}
 	
 
-	@Test(priority=3,dependsOnGroups = {"MobileSelection"})
+	@Test
 	@Parameters({"Product","ram"})
 	//Ram Selection
 	public void ramSelectionTest(String Product ,String ram) {
@@ -55,7 +55,7 @@ public class MobileSearchPageTest extends TestBase {
 		page.ramSelection(ram);
 	}
 	
-	@Test(priority=4,dependsOnGroups = {"MobileSelection"})
+	@Test
 	@Parameters({"Product","ram","brandName"})
 	public void brandSelectionTest (String Product ,String ram,String brandName) {
 		//Brand Selection	
@@ -64,7 +64,7 @@ public class MobileSearchPageTest extends TestBase {
 		page.brandSelection(brandName);
 	}
 	
-	@Test(priority=5,dependsOnGroups = {"MobileSelection"})
+	@Test
 	@Parameters({"Product","ram","brandName","mobileName"})
 	public void selectMobileTest (String Product ,String ram,String brandName,String mobileName) {
 		//Specified Mobile Selection	
@@ -72,19 +72,21 @@ public class MobileSearchPageTest extends TestBase {
 		page.ramSelection(ram);
 		page.brandSelection(brandName);
 		page.selectMobile(mobileName);
-//		testUtil.switchWindow(tabNum);
+
 	}
 	
-	
-
-	@Test(priority=6,dependsOnGroups = {"MobileSelection"})
+	@Test
 	@Parameters({"Product","ram","brandName","mobileName"})
 	public void compareMobileTest (String Product ,String ram,String brandName,String mobileName) throws InterruptedException {
 		//Compare Mobile
+		
 		searchProductsTest(Product);
 		page.ramSelection(ram);
 		page.brandSelection(brandName);
 		page.selectMobile(mobileName);
+		Thread.sleep(3000);
+		driver.getTitle();
+		Thread.sleep(3000);
 		page.compareMobile();
 	}
 

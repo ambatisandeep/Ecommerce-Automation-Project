@@ -48,7 +48,8 @@ public class MoblieSearchPage extends TestBase {
 		static @FindBy(xpath = "//*[@placeholder='Search Brand']")
 		WebElement searchBrandBar;
 		
-		static @FindBy(xpath = "//*[contains(text(),'Compare')]/preceding::div[@class='_1p7h2j']")
+//		static @FindBy(xpath = "//*[contains(text(),'Compare')]/preceding::div[@class='_1p7h2j']")
+		static @FindBy(xpath = "//*[@id='container']/div/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div/span/div/label/div")
 		WebElement compareCheckBox;
 		
 		static @FindBy(xpath = "//*[@class='G934d8']/span")
@@ -80,6 +81,14 @@ public class MoblieSearchPage extends TestBase {
 
 		linksAndButtons.searchButton.click();
 		logger.info("Search Button Clicked");
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+//		String actualTitle = ;
+		logger.info(driver.getTitle());
 		
 		return Product;
 	} 
@@ -100,6 +109,8 @@ public class MoblieSearchPage extends TestBase {
 			logger.info(ram + " Ram Selected ");
 
 		}
+		String actualTitle = driver.getTitle();
+		logger.info(actualTitle);
 		return ram;
 	}
 
@@ -146,13 +157,18 @@ public class MoblieSearchPage extends TestBase {
 		driver.findElement(By.xpath("//*[contains(text(),'"+mobileName+"')]")).click();
 		logger.info("Clicked "+ mobileName);
 		logger.info("Switched to New Tab");
-		String actualTitle=driver.getTitle();
-		logger.info(actualTitle);
 //		Assert.assertEquals(actualTitle, "Vivo Z1Pro ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com");
 		return mobileName;
 	}
 	
 	public void compareMobile() {
+		String actualTitle=driver.getTitle();
+		logger.info(actualTitle);
+		WebElement swatchRam=driver.findElement(By.xpath("//*[@id='container']/div/div[1]/div[1]/div[2]/div[3]/div/div/div/a"));
+		testUtil.explicitWait(driver, swatchRam, 10);
+		swatchRam.click();
+		linksAndButtons.compareCheckBox.click();
+		linksAndButtons.compareButton.click();
 		linksAndButtons.chooseBrandSearch1.click();
 		linksAndButtons.chooseBrandSearch1.clear();
 		linksAndButtons.chooseBrand1.sendKeys("Realme");
@@ -167,8 +183,6 @@ public class MoblieSearchPage extends TestBase {
 		testUtil.explicitWait(driver, chooseProduct1, 10);
 		chooseProduct1.click();
 		
-		
-	
 	}
 
 }

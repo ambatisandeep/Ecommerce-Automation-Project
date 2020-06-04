@@ -3,15 +3,19 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <parameter name="brandName" value="Nokia"/>
+    <parameter name="tabNum" value="0"/>
     <parameter name="Product" value="Phones"/>
     <parameter name="ram" value="4 GB"/>
     <parameter name="mobileName" value="Nokia 6.2 (Black, 64 GB)"/>
     <classes>
       <class name="com.flipkart.testcases.MobileSearchPageTest">
+        <parameter name="Product" value="Phones"/>
+        <parameter name="brandName" value="Nokia"/>
+        <parameter name="ram" value="4 GB"/>
+        <parameter name="mobileName" value="Nokia 6.1 Plus (Black, 64 GB)"/>
         <methods>
           <include name="compareMobileTest" invocation-numbers="0"/>
           <include name="tearDown"/>
-          <include name="searchProductsTest"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.flipkart.testcases.MobileSearchPageTest -->

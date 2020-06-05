@@ -1022,3 +1022,320 @@
 2020-06-04 20:11:03 INFO  MoblieSearchPage:158 - Clicked Nokia 6.1 Plus (Black, 64 GB)
 2020-06-04 20:11:03 INFO  MoblieSearchPage:159 - Switched to New Tab
 2020-06-04 20:11:09 INFO  MoblieSearchPage:166 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:28:34 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 19:28:36 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 19:28:36 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 19:28:37 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 19:28:37 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 19:28:39 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:28:39 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 19:28:40 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:29:00 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 19:29:00 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 19:29:01 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 19:29:02 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 19:29:02 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 19:29:08 INFO  MoblieSearchPage:166 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:37:56 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 19:37:59 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 19:37:59 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 19:38:00 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 19:38:00 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 19:38:02 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:38:02 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 19:38:02 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:38:22 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 19:38:23 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 19:38:23 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 19:38:24 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 19:38:24 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 19:40:54 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 19:40:57 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 19:40:57 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 19:40:58 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 19:41:03 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 19:41:05 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:41:12 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 19:41:12 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:41:37 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 19:41:37 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 19:41:43 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 19:41:48 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 19:41:48 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 19:44:13 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 19:44:16 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 19:44:16 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 19:44:16 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 19:44:16 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 19:44:18 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:44:19 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 19:44:19 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:44:39 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 19:44:40 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 19:44:40 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 19:45:15 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 19:45:17 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 19:46:02 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 19:46:02 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 19:46:03 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 19:46:05 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:46:25 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 19:46:26 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:46:57 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 19:46:58 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 19:47:00 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 19:49:22 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 19:49:22 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 19:58:44 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 19:58:54 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 19:58:55 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 19:58:55 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 19:58:55 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 19:58:57 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:58:58 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 19:58:58 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 19:59:18 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 19:59:18 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 19:59:19 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 19:59:47 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 19:59:50 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 19:59:57 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 19:59:58 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 19:59:58 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:00:01 INFO  MoblieSearchPage:91 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-05 20:00:04 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 20:00:05 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:00:27 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 20:00:28 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 20:00:31 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 20:00:35 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:00:35 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 20:01:28 INFO  MobileSearchPageTest:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:01:35 INFO  MobileSearchPageTest:93 - 
+2020-06-05 20:02:45 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:02:48 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:02:48 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 20:02:48 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 20:02:48 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:02:50 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:02:51 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 20:02:51 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:03:11 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 20:03:12 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 20:03:13 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 20:03:29 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:03:32 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:03:32 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 20:03:33 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 20:03:33 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:03:35 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:03:35 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 20:03:35 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:03:56 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 20:03:56 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 20:03:57 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 20:03:58 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:03:58 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 20:04:08 INFO  MobileSearchPageTest:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:04:17 INFO  MobileSearchPageTest:93 - 
+2020-06-05 20:04:22 INFO  MobileSearchPageTest:95 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:09:21 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:09:25 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:09:25 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 20:09:26 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 20:09:26 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:09:28 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:09:28 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 20:09:29 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:09:49 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 20:09:49 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 20:09:50 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 20:10:00 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:10:03 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:10:03 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 20:10:03 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 20:10:03 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:10:05 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:10:06 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 20:10:06 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:10:26 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 20:10:27 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 20:10:27 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 20:10:28 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:10:28 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 20:11:19 INFO  MobileSearchPageTest:91 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:11:21 INFO  MoblieSearchPage:166 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:12:45 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:12:48 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:12:48 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 20:12:48 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 20:12:48 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:12:50 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:12:51 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 20:12:51 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:13:05 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:13:07 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:13:07 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 20:13:08 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 20:13:08 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:13:10 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:13:20 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:13:23 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:13:23 INFO  MoblieSearchPage:77 - Clicked Product Search Bar
+2020-06-05 20:13:24 INFO  MoblieSearchPage:80 - Search Product Phones
+2020-06-05 20:13:24 INFO  MoblieSearchPage:83 - Search Button Clicked
+2020-06-05 20:13:26 INFO  MoblieSearchPage:91 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:13:26 INFO  MoblieSearchPage:109 - 4 GB Ram Selected 
+2020-06-05 20:13:27 INFO  MoblieSearchPage:113 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:13:47 INFO  MoblieSearchPage:135 -  Clicked Mobile Search Bar 
+2020-06-05 20:13:47 INFO  MoblieSearchPage:140 -  Searching Nokia
+2020-06-05 20:13:48 INFO  MoblieSearchPage:148 - Nokia Brand Selected
+2020-06-05 20:13:48 INFO  MoblieSearchPage:158 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:13:48 INFO  MoblieSearchPage:159 - Switched to New Tab
+2020-06-05 20:13:59 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:14:02 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:21:04 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:21:06 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:21:06 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 20:21:07 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 20:21:07 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 20:21:09 INFO  MoblieSearchPage:90 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:21:10 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 20:21:10 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:21:30 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 20:21:30 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 20:21:31 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 20:21:32 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:21:32 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 20:21:36 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:21:36 INFO  MoblieSearchPage:165 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:21:36 INFO  MoblieSearchPage:170 - Swatch Ram[[ChromeDriver: chrome on WINDOWS (8cd742c38a30bdff4ed7e8336910087e)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[3]/div/div/div/a] Selected
+2020-06-05 20:26:58 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:27:01 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:27:01 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 20:27:01 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 20:27:02 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 20:27:04 INFO  MoblieSearchPage:90 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:27:04 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 20:27:04 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:27:25 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 20:27:25 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 20:27:26 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 20:27:26 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:27:26 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 20:27:30 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:27:30 INFO  MoblieSearchPage:165 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:27:31 INFO  MoblieSearchPage:170 - Swatch Ram Selected
+2020-06-05 20:29:28 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:29:31 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:29:31 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 20:29:32 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 20:29:32 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 20:29:34 INFO  MoblieSearchPage:90 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:29:35 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 20:29:35 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:29:56 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 20:29:56 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 20:29:56 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 20:30:00 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:30:00 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 20:30:07 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:30:07 INFO  MoblieSearchPage:165 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:30:07 INFO  MoblieSearchPage:170 - Swatch Ram Selected
+2020-06-05 20:34:34 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 20:34:37 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 20:34:38 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 20:34:38 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 20:34:38 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 20:34:40 INFO  MoblieSearchPage:90 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-05 20:34:43 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 20:34:43 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 20:35:04 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 20:35:04 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 20:35:05 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 20:35:05 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 20:35:05 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 20:35:09 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:35:09 INFO  MoblieSearchPage:165 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 20:35:10 INFO  MoblieSearchPage:170 - Swatch Ram Selected
+2020-06-05 20:35:10 INFO  MoblieSearchPage:173 - Compare CheckBox Clicked
+2020-06-05 23:24:40 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 23:24:43 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 23:24:43 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 23:24:43 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 23:24:43 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 23:24:45 INFO  MoblieSearchPage:90 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:24:46 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 23:24:46 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:25:06 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 23:25:06 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 23:25:06 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 23:25:07 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 23:25:07 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 23:25:09 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:27:35 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 23:27:37 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 23:27:37 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 23:27:37 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 23:27:37 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 23:27:39 INFO  MoblieSearchPage:90 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:27:40 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 23:27:40 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:28:00 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 23:28:00 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 23:28:00 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 23:28:01 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 23:28:01 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 23:28:03 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:28:03 INFO  MoblieSearchPage:169 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:29:16 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 23:29:19 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 23:29:19 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 23:29:19 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 23:29:19 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 23:29:22 INFO  MoblieSearchPage:90 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:29:23 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 23:29:24 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:29:44 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 23:29:45 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 23:29:45 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 23:29:46 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 23:29:46 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 23:29:50 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:29:50 INFO  MoblieSearchPage:169 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:29:50 INFO  MoblieSearchPage:180 - Compare CheckBox Clicked
+2020-06-05 23:29:50 INFO  MoblieSearchPage:183 - Compare CheckBox Clicked
+2020-06-05 23:31:14 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 23:31:16 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 23:31:16 INFO  MoblieSearchPage:76 - Clicked Product Search Bar
+2020-06-05 23:31:16 INFO  MoblieSearchPage:79 - Search Product Phones
+2020-06-05 23:31:16 INFO  MoblieSearchPage:82 - Search Button Clicked
+2020-06-05 23:31:18 INFO  MoblieSearchPage:90 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:31:19 INFO  MoblieSearchPage:108 - 4 GB Ram Selected 
+2020-06-05 23:31:19 INFO  MoblieSearchPage:112 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:31:39 INFO  MoblieSearchPage:134 -  Clicked Mobile Search Bar 
+2020-06-05 23:31:39 INFO  MoblieSearchPage:139 -  Searching Nokia
+2020-06-05 23:31:39 INFO  MoblieSearchPage:147 - Nokia Brand Selected
+2020-06-05 23:31:40 INFO  MoblieSearchPage:157 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 23:31:40 INFO  MoblieSearchPage:158 - Switched to New Tab
+2020-06-05 23:31:42 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:31:42 INFO  MoblieSearchPage:169 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:31:42 INFO  MoblieSearchPage:180 - Compare CheckBox Clicked
+2020-06-05 23:31:42 INFO  MoblieSearchPage:183 - Compare CheckBox Clicked
+2020-06-05 23:36:59 INFO  TestBase:45 - Opened URL https://www.flipkart.com
+2020-06-05 23:37:01 INFO  MobileSearchPageTest:33 - Pop Up closed
+2020-06-05 23:37:01 INFO  MoblieSearchPage:79 - Clicked Product Search Bar
+2020-06-05 23:37:01 INFO  MoblieSearchPage:82 - Search Product Phones
+2020-06-05 23:37:02 INFO  MoblieSearchPage:85 - Search Button Clicked
+2020-06-05 23:37:04 INFO  MoblieSearchPage:93 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:37:04 INFO  MoblieSearchPage:111 - 4 GB Ram Selected 
+2020-06-05 23:37:04 INFO  MoblieSearchPage:115 - Phones - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+2020-06-05 23:37:24 INFO  MoblieSearchPage:137 -  Clicked Mobile Search Bar 
+2020-06-05 23:37:24 INFO  MoblieSearchPage:142 -  Searching Nokia
+2020-06-05 23:37:25 INFO  MoblieSearchPage:150 - Nokia Brand Selected
+2020-06-05 23:37:25 INFO  MoblieSearchPage:160 - Clicked Nokia 6.2 (Black, 64 GB)
+2020-06-05 23:37:25 INFO  MoblieSearchPage:161 - Switched to New Tab
+2020-06-05 23:37:27 INFO  MobileSearchPageTest:88 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:37:27 INFO  MoblieSearchPage:172 - Nokia 6.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-05 23:37:27 INFO  MoblieSearchPage:183 - Compare CheckBox Clicked
+2020-06-05 23:37:27 INFO  MoblieSearchPage:186 - Compare CheckBox Clicked

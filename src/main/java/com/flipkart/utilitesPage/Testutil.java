@@ -12,15 +12,32 @@ import com.flipkart.base.TestBase;
 public class Testutil extends TestBase {
 	
 public int tabNum;
+
+
 	
 	public void switchWindow(int tabNum) {
 		ArrayList<String>newTab = new ArrayList<String>(driver.getWindowHandles());
 		driver.switchTo().window(newTab.get(tabNum));
 		
 	}
+	public static void switchWindow(int tabNum,WebDriver driver ) {
+		ArrayList<String>newTab = new ArrayList<String>(driver.getWindowHandles());
+		driver.switchTo().window(newTab.get(tabNum));
+		
+	}
+	public static boolean getRequiredWindow(WebDriver driver,String requiredTitle ) {
+		ArrayList<String>newTab = new ArrayList<String>(driver.getWindowHandles());
+		for(int i=0;i<newTab.size();i++) {
+			driver.switchTo().window(newTab.get(i));
+			if(driver.getTitle().contains(requiredTitle))
+				return true;
+		}
+		return false;
+		
+	}
 	
 	//Mobile page Explicit Wait method
-	public void explicitWait(WebDriver driver, WebElement element, int timeout) {
+	public static void explicitWait(WebDriver driver, WebElement element, int timeout) {
 		new WebDriverWait(driver,timeout).until(ExpectedConditions.visibilityOf(element));
 	}
 

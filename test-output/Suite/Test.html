@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Thu Jun 04 20:10:30 IST 2020</td>
+<td>Started on:</td><td>Fri Jun 05 23:36:52 IST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>66 seconds (66899 ms)</td>
+<tr><td>Total time:</td><td>68 seconds (68966 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,61 +75,29 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.flipkart.testcases.MobileSearchPageTest.compareMobileTest()'><b>compareMobileTest</b><br>Test class: com.flipkart.testcases.MobileSearchPageTest<br>Parameters: Phones, 4 GB, Nokia, Nokia 6.1 Plus (Black, 64 GB)</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&apos;container&apos;]/div/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div/span/div/label/div&quot;}
-  (Session info: chrome=83.0.4103.61)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+<td title='com.flipkart.testcases.MobileSearchPageTest.compareMobileTest()'><b>compareMobileTest</b><br>Test class: com.flipkart.testcases.MobileSearchPageTest<br>Parameters: Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB)</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=&apos;fk-compare-page&apos;]/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input (tried for 30 second(s) with 500 milliseconds interval)
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.0.8&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
+System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.43.59&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 6f2c58c3682b2600bf27e43bd69b0eb1
-*** Element info: {Using=xpath, value=//*[@id=&apos;container&apos;]/div/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div/span/div/label/div}
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy10.click(Unknown Source)
-	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:170)
-	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:90)
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67193db815afe1da441d09e02a7af9bd
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:189)
+	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:89)
 	at java.util.ArrayList.forEach(ArrayList.java:1257)
-... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace13226198", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace13226198'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&apos;container&apos;]/div/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div/span/div/label/div&quot;}
-  (Session info: chrome=83.0.4103.61)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1764291958", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1764291958'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=&apos;fk-compare-page&apos;]/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input (tried for 30 second(s) with 500 milliseconds interval)
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.0.8&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
+System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.43.59&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 6f2c58c3682b2600bf27e43bd69b0eb1
-*** Element info: {Using=xpath, value=//*[@id=&apos;container&apos;]/div/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div/span/div/label/div}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy10.click(Unknown Source)
-	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:170)
-	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:90)
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67193db815afe1da441d09e02a7af9bd
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:189)
+	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:89)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -159,7 +127,7 @@ Session ID: 6f2c58c3682b2600bf27e43bd69b0eb1
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>54</td>
+<td>56</td>
 <td>com.flipkart.testcases.MobileSearchPageTest@1a3869f4</td></tr>
 </table><p>
 </body>

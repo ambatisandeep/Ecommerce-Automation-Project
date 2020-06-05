@@ -18,22 +18,7 @@
 			<methods>
 			<include name = "compareMobileTest"/>
 			</methods>
-		</class>
-			<class name="com.flipkart.testcases.MobileSearchPageTest" >
-					<parameter name="Product" value="Phones" />
-
-		<parameter name="ram" value="4 GB" />
-		
-		<parameter name="brandName" value="Nokia" />
-
-		<parameter name="mobileName"
-			value="Nokia 6.1 Plus (Black, 64 GB)" />
-	
-			<methods>
-			<include name = "compareMobileTest"/>
-			</methods>
-		</class>
-		
+			</class>
 		</classes>
 
 

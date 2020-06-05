@@ -84,9 +84,8 @@ public class MobileSearchPageTest extends TestBase {
 		page.ramSelection(ram);
 		page.brandSelection(brandName);
 		page.selectMobile(mobileName);
-		Thread.sleep(3000);
-		driver.getTitle();
-		Thread.sleep(3000);
+		Testutil.getRequiredWindow( driver, "Nokia");
+		logger.info(driver.getTitle());
 		page.compareMobile();
 	}
 

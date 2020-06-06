@@ -49,26 +49,13 @@ public class MoblieSearchPage extends TestBase {
 
 		static @FindBy(xpath = "//*[@placeholder='Search Brand']")
 		WebElement searchBrandBar;
-		
-//		static @FindBy(xpath = "//*[contains(text(),'Compare')]/preceding::div[@class='_1p7h2j']")
-		static @FindBy(xpath = "//*[@id='container']/div/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div/span/div/label/div")
+
+		static @FindBy(xpath = "//*[@id='container']/div/div/following::label/div[@class='_1p7h2j']")
 		WebElement compareCheckBox;
-		
-		static @FindBy(xpath = "//*[@class='G934d8']/span")
+
+		static @FindBy(xpath = "//*[@id='container']/div/div/following::span//*[contains(text(),'COMPARE')]")
 		WebElement compareButton;
-		
-		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input")
-		WebElement chooseBrandSearch1;
-		
-		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/div/div[2]")
-		WebElement chooseBrand1;
-		
-		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/span")
-		WebElement chooseProductSearch1;
-		
-		static @FindBy(xpath = "//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[2]/div/div[4]")
-		WebElement chooseProduct1;
-		
+
 	}
 
 
@@ -89,12 +76,12 @@ public class MoblieSearchPage extends TestBase {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-//		String actualTitle = ;
+		//		String actualTitle = ;
 		logger.info(driver.getTitle());
-		
+
 		return Product;
 	} 
-	
+
 
 	//Selection of Ram Types
 	public String ramSelection (String ram) {
@@ -159,55 +146,48 @@ public class MoblieSearchPage extends TestBase {
 		driver.findElement(By.xpath("//*[contains(text(),'"+mobileName+"')]")).click();
 		logger.info("Clicked "+ mobileName);
 		logger.info("Switched to New Tab");
-//		Assert.assertEquals(actualTitle, "Vivo Z1Pro ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com");
+		//		Assert.assertEquals(actualTitle, "Vivo Z1Pro ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com");
 		return mobileName;
 	}
-	
-	public void compareMobile() {
-		
-		
-		//WebElement chooseBrand1 = driver.findElement(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/div/div[2]"));
+
+	public void compareMobile(String compareBrandOne, String compareProductOne) {
 		
 		String actualTitle=driver.getTitle();
 		logger.info(actualTitle);
-		
-		
-//		WebElement swatchRam=driver.findElement(By.xpath("//*[@id='container']/div/div[1]/div[1]/div[2]/div[3]/div/div/div/a"));
-//		Testutil.explicitWait(driver, swatchRam, 10);
-//		swatchRam.click();
-//		logger.info("Swatch Ram Selected");
+
+
+		//		WebElement swatchRam=driver.findElement(By.xpath("//*[@id='container']/div/div[1]/div[1]/div[2]/div[3]/div/div/div/a"));
+		//		Testutil.explicitWait(driver, swatchRam, 10);
+		//		swatchRam.click();
+		//		logger.info("Swatch Ram Selected");
 		//Popup Closed
 		//driver.findElement(By.xpath("//*[@class='_2AkmmA _29YdH8']")).click();
-		
+
 		linksAndButtons.compareCheckBox.click();
 		logger.info("Compare CheckBox Clicked");
-		
+
 		linksAndButtons.compareButton.click();
 		logger.info("Compare CheckBox Clicked");
-		
+
 		WebDriverWait wait = new WebDriverWait(driver,30);
-		WebElement chooseBrandSearch1 = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input")));
-		
+		WebElement chooseBrandSearch1 = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose Brand')][1]")));
+		////*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[1]
+
 		//linksAndButtons.chooseBrandSearch1.click();
-		chooseBrandSearch1.click();
+		Testutil.mouseHover(driver, chooseBrandSearch1);
+		logger.info("chooseBrandSearch1 Clicked");
+
+		WebElement chooseBrand1 = driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose Brand')][1]//following::div[@title='"+compareBrandOne+"'][1]"));
+		Testutil.mouseHover(driver, chooseBrand1);
+		logger.info("Compare Brand Selected");
+
+		WebElement chooseProductSearch1 =driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]"));
+		Testutil.mouseHover(driver, chooseProductSearch1);
 		
-		//linksAndButtons.chooseBrandSearch1.clear();
-		chooseBrandSearch1.clear();
-		
-		//linksAndButtons.chooseBrand1.sendKeys("Realme");
-		chooseBrandSearch1.sendKeys("Realme");
-		
-		WebElement chooseBrand1 = driver.findElement(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/div/div[2]"));
-		Testutil.explicitWait(driver,chooseBrand1, 10);
-		chooseBrand1.click();
-		
-		linksAndButtons.chooseProductSearch1.click();
-		linksAndButtons.chooseProductSearch1.clear();
-		linksAndButtons.chooseProductSearch1.sendKeys("Realme");
-		WebElement chooseProduct1 = driver.findElement(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[2]/div/div[3]"));
+		WebElement chooseProduct1 = driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]//following::div[@title='"+compareProductOne+ "']"));
 		Testutil.explicitWait(driver, chooseProduct1, 10);
-		chooseProduct1.click();
-		
+		Testutil.mouseHover(driver, chooseProduct1);
+		logger.info("Product Selected");
 	}
 
 }

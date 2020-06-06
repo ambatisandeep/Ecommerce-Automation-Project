@@ -45,7 +45,7 @@ public class MobileSearchPageTest extends TestBase {
 		//Searching Product
 		page.searchProducts(Product);
 	}
-	
+
 
 	@Test
 	@Parameters({"Product","ram"})
@@ -54,7 +54,7 @@ public class MobileSearchPageTest extends TestBase {
 		searchProductsTest(Product);
 		page.ramSelection(ram);
 	}
-	
+
 	@Test
 	@Parameters({"Product","ram","brandName"})
 	public void brandSelectionTest (String Product ,String ram,String brandName) {
@@ -63,7 +63,7 @@ public class MobileSearchPageTest extends TestBase {
 		page.ramSelection(ram);
 		page.brandSelection(brandName);
 	}
-	
+
 	@Test
 	@Parameters({"Product","ram","brandName","mobileName"})
 	public void selectMobileTest (String Product ,String ram,String brandName,String mobileName) {
@@ -74,19 +74,19 @@ public class MobileSearchPageTest extends TestBase {
 		page.selectMobile(mobileName);
 
 	}
-	
+
 	@Test
-	@Parameters({"Product","ram","brandName","mobileName"})
-	public void compareMobileTest (String Product ,String ram,String brandName,String mobileName) throws InterruptedException {
+	@Parameters({"Product","ram","brandName","mobileName","compareBrandOne","compareProductOne"})
+	public void compareMobileTest (String Product ,String ram,String brandName,String mobileName,String compareBrandOne,String compareProductOne) throws InterruptedException {
 		//Compare Mobile
-		
+
 		searchProductsTest(Product);
 		page.ramSelection(ram);
 		page.brandSelection(brandName);
 		page.selectMobile(mobileName);
 		Testutil.getRequiredWindow( driver, "Nokia");
 		logger.info(driver.getTitle());
-		page.compareMobile();
+		page.compareMobile(compareBrandOne,compareProductOne);
 	}
 
 	@AfterMethod

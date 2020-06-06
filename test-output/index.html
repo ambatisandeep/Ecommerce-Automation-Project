@@ -102,7 +102,7 @@
                     <div class="method-list-content failed suite-Suite">
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))">compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.flipkart.testcases.MobileSearchPageTest" hash-for-method="compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB), Nokia, Nokia 3.1 Plus (White, 32 GB))">compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB), Nokia, Nokia 3.1 Plus (White, 32 GB))</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Suite -->
@@ -125,19 +125,20 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))">
-                  </a> <!-- compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB)) -->
+                  <a name="compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB), Nokia, Nokia 3.1 Plus (White, 32 GB))">
+                  </a> <!-- compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB), Nokia, Nokia 3.1 Plus (White, 32 GB)) -->
                   <span class="method-name">compareMobileTest</span>
-                  <span class="parameters">(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</span>
-                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=&apos;fk-compare-page&apos;]/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input (tried for 30 second(s) with 500 milliseconds interval)
+                  <span class="parameters">(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB), Nokia, Nokia 3.1 Plus (White, 32 GB))</span>
+                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (b0eb18ce15070759b6ff22d81d5abd7c)] -&gt; xpath: //*[@id=&apos;container&apos;]/div/div/following::div[contains(text(),&apos;Choose a Product&apos;)][1]//following::div[@title=&apos;Nokia 3.1 Plus (White, 32 GB)&apos;]] (tried for 10 second(s) with 500 milliseconds interval)
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.43.59&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
+System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.0.5&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 67193db815afe1da441d09e02a7af9bd
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b0eb18ce15070759b6ff22d81d5abd7c
 	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:189)
+	at com.flipkart.utilitesPage.Testutil.explicitWait(Testutil.java:39)
+	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:188)
 	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:89)
 	at java.util.ArrayList.forEach(ArrayList.java:1257)
 ... Removed 27 stack frames
@@ -158,8 +159,10 @@ Session ID: 67193db815afe1da441d09e02a7af9bd
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
     &lt;parameter name=&quot;brandName&quot; value=&quot;Nokia&quot;/&gt;
+    &lt;parameter name=&quot;compareProductOne&quot; value=&quot;Nokia 3.1 Plus (White, 32 GB)&quot;/&gt;
     &lt;parameter name=&quot;tabNum&quot; value=&quot;0&quot;/&gt;
     &lt;parameter name=&quot;Product&quot; value=&quot;Phones&quot;/&gt;
+    &lt;parameter name=&quot;compareBrandOne&quot; value=&quot;Nokia&quot;/&gt;
     &lt;parameter name=&quot;ram&quot; value=&quot;4 GB&quot;/&gt;
     &lt;parameter name=&quot;mobileName&quot; value=&quot;Nokia 6.2 (Black, 64 GB)&quot;/&gt;
     &lt;classes&gt;
@@ -211,12 +214,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'compareMobileTest')
 data.setCell(0, 2, 'com.flipkart.testcases.MobileSearchPageTest')
-data.setCell(0, 3, 56488);
+data.setCell(0, 3, 39617);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 56 seconds</span>
+              <span class="suite-total-time">Total running time: 39 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -265,12 +268,12 @@ return data;
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB))</span>
-                <span class="method-start">9324 ms</span>
+                <span class="method-name">compareMobileTest(Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB), Nokia, Nokia 3.1 Plus (White, 32 GB))</span>
+                <span class="method-start">9687 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">65812 ms</span>
+                <span class="method-start">49320 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

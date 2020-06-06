@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Jun 05 23:36:52 IST 2020</td>
+<td>Started on:</td><td>Sat Jun 06 18:34:04 IST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>68 seconds (68966 ms)</td>
+<tr><td>Total time:</td><td>52 seconds (52261 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,28 +75,30 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.flipkart.testcases.MobileSearchPageTest.compareMobileTest()'><b>compareMobileTest</b><br>Test class: com.flipkart.testcases.MobileSearchPageTest<br>Parameters: Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB)</td>
-<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=&apos;fk-compare-page&apos;]/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input (tried for 30 second(s) with 500 milliseconds interval)
+<td title='com.flipkart.testcases.MobileSearchPageTest.compareMobileTest()'><b>compareMobileTest</b><br>Test class: com.flipkart.testcases.MobileSearchPageTest<br>Parameters: Phones, 4 GB, Nokia, Nokia 6.2 (Black, 64 GB), Nokia, Nokia 3.1 Plus (White, 32 GB)</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (b0eb18ce15070759b6ff22d81d5abd7c)] -&gt; xpath: //*[@id=&apos;container&apos;]/div/div/following::div[contains(text(),&apos;Choose a Product&apos;)][1]//following::div[@title=&apos;Nokia 3.1 Plus (White, 32 GB)&apos;]] (tried for 10 second(s) with 500 milliseconds interval)
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.43.59&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
+System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.0.5&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 67193db815afe1da441d09e02a7af9bd
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b0eb18ce15070759b6ff22d81d5abd7c
 	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:189)
+	at com.flipkart.utilitesPage.Testutil.explicitWait(Testutil.java:39)
+	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:188)
 	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:89)
 	at java.util.ArrayList.forEach(ArrayList.java:1257)
-... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1764291958", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1764291958'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=&apos;fk-compare-page&apos;]/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input (tried for 30 second(s) with 500 milliseconds interval)
+... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace900298796", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace900298796'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (b0eb18ce15070759b6ff22d81d5abd7c)] -&gt; xpath: //*[@id=&apos;container&apos;]/div/div/following::div[contains(text(),&apos;Choose a Product&apos;)][1]//following::div[@title=&apos;Nokia 3.1 Plus (White, 32 GB)&apos;]] (tried for 10 second(s) with 500 milliseconds interval)
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.43.59&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
+System info: host: &apos;PAVAN&apos;, ip: &apos;192.168.0.5&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_171&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 67193db815afe1da441d09e02a7af9bd
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b0eb18ce15070759b6ff22d81d5abd7c
 	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:189)
+	at com.flipkart.utilitesPage.Testutil.explicitWait(Testutil.java:39)
+	at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:188)
 	at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:89)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -127,7 +129,7 @@ Session ID: 67193db815afe1da441d09e02a7af9bd
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>56</td>
+<td>39</td>
 <td>com.flipkart.testcases.MobileSearchPageTest@1a3869f4</td></tr>
 </table><p>
 </body>

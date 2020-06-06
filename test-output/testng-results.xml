@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="5" total="6" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="68966" started-at="2020-06-05T23:36:52 IST" finished-at="2020-06-05T23:38:01 IST">
+  <suite name="Suite" duration-ms="52261" started-at="2020-06-06T18:34:04 IST" finished-at="2020-06-06T18:34:56 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="68966" started-at="2020-06-05T23:36:52 IST" finished-at="2020-06-05T23:38:01 IST">
+    <test name="Test" duration-ms="52261" started-at="2020-06-06T18:34:04 IST" finished-at="2020-06-06T18:34:56 IST">
       <class name="com.flipkart.testcases.MobileSearchPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@1a3869f4]" name="setUp" is-config="true" duration-ms="9323" started-at="2020-06-05T23:36:52 IST" finished-at="2020-06-05T23:37:01 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@1a3869f4]" name="setUp" is-config="true" duration-ms="9686" started-at="2020-06-06T18:34:04 IST" finished-at="2020-06-06T18:34:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="compareMobileTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@1a3869f4]" name="compareMobileTest" duration-ms="56488" started-at="2020-06-05T23:37:01 IST" finished-at="2020-06-05T23:37:58 IST">
+        <test-method status="FAIL" signature="compareMobileTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@1a3869f4]" name="compareMobileTest" duration-ms="39617" started-at="2020-06-06T18:34:14 IST" finished-at="2020-06-06T18:34:53 IST">
           <params>
             <param index="0">
               <value>
@@ -33,26 +33,37 @@
                 <![CDATA[Nokia 6.2 (Black, 64 GB)]]>
               </value>
             </param>
+            <param index="4">
+              <value>
+                <![CDATA[Nokia]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Nokia 3.1 Plus (White, 32 GB)]]>
+              </value>
+            </param>
           </params>
           <exception class="org.openqa.selenium.TimeoutException">
             <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input (tried for 30 second(s) with 500 milliseconds interval)
+              <![CDATA[Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (b0eb18ce15070759b6ff22d81d5abd7c)] -> xpath: //*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]//following::div[@title='Nokia 3.1 Plus (White, 32 GB)']] (tried for 10 second(s) with 500 milliseconds interval)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'PAVAN', ip: '192.168.43.59', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+System info: host: 'PAVAN', ip: '192.168.0.5', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 67193db815afe1da441d09e02a7af9bd]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b0eb18ce15070759b6ff22d81d5abd7c]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[2]/input (tried for 30 second(s) with 500 milliseconds interval)
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (b0eb18ce15070759b6ff22d81d5abd7c)] -> xpath: //*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]//following::div[@title='Nokia 3.1 Plus (White, 32 GB)']] (tried for 10 second(s) with 500 milliseconds interval)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'PAVAN', ip: '192.168.43.59', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+System info: host: 'PAVAN', ip: '192.168.0.5', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 67193db815afe1da441d09e02a7af9bd
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\PAVANT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b0eb18ce15070759b6ff22d81d5abd7c
 at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
 at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:189)
+at com.flipkart.utilitesPage.Testutil.explicitWait(Testutil.java:39)
+at com.flipkart.pages.MoblieSearchPage.compareMobile(MoblieSearchPage.java:188)
 at com.flipkart.testcases.MobileSearchPageTest.compareMobileTest(MobileSearchPageTest.java:89)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -88,7 +99,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- compareMobileTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@1a3869f4]" name="tearDown" is-config="true" duration-ms="3110" started-at="2020-06-05T23:37:58 IST" finished-at="2020-06-05T23:38:01 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.testcases.MobileSearchPageTest@1a3869f4]" name="tearDown" is-config="true" duration-ms="2894" started-at="2020-06-06T18:34:53 IST" finished-at="2020-06-06T18:34:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

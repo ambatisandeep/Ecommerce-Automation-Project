@@ -5,19 +5,23 @@
 		<parameter name="Product" value="Phones" />
 
 		<parameter name="ram" value="4 GB" />
-		
+
 		<parameter name="brandName" value="Nokia" />
 
 		<parameter name="mobileName"
 			value="Nokia 6.2 (Black, 64 GB)" />
-			
+
 		<parameter name="tabNum" value="0" />
+		
+		<parameter name="compareBrandOne" value="Nokia"/>
+		
+		<parameter name="compareProductOne" value="Nokia 3.1 Plus (White, 32 GB)"/>
 
 		<classes>
-			<class name="com.flipkart.testcases.MobileSearchPageTest" >
-			<methods>
-			<include name = "compareMobileTest"/>
-			</methods>
+			<class name="com.flipkart.testcases.MobileSearchPageTest">
+				<methods>
+					<include name="compareMobileTest" />
+				</methods>
 			</class>
 		</classes>
 

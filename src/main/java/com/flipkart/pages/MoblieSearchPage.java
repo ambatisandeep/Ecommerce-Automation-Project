@@ -13,7 +13,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.flipkart.base.TestBase;
 import com.flipkart.utilitesPage.Testutil;
 
-
 public class MoblieSearchPage extends TestBase {
 
 	Logger logger =Logger.getLogger(MoblieSearchPage.class);
@@ -26,11 +25,10 @@ public class MoblieSearchPage extends TestBase {
 		PageFactory.initElements(driver, this);
 		buttonsObj = new linksAndButtons(driver);
 	}
-	//commit
+	
 	public linksAndButtons getbuttonsObj() {
 		return buttonsObj;
 	}
-
 
 	public static class linksAndButtons{
 
@@ -150,18 +148,10 @@ public class MoblieSearchPage extends TestBase {
 		return mobileName;
 	}
 
-	public void compareMobile(String compareBrandOne, String compareProductOne) {
+	public void compareMobile(String compareBrandOne,String compareProductOne) {
 		
 		String actualTitle=driver.getTitle();
 		logger.info(actualTitle);
-
-
-		//		WebElement swatchRam=driver.findElement(By.xpath("//*[@id='container']/div/div[1]/div[1]/div[2]/div[3]/div/div/div/a"));
-		//		Testutil.explicitWait(driver, swatchRam, 10);
-		//		swatchRam.click();
-		//		logger.info("Swatch Ram Selected");
-		//Popup Closed
-		//driver.findElement(By.xpath("//*[@class='_2AkmmA _29YdH8']")).click();
 
 		linksAndButtons.compareCheckBox.click();
 		logger.info("Compare CheckBox Clicked");
@@ -171,7 +161,6 @@ public class MoblieSearchPage extends TestBase {
 
 		WebDriverWait wait = new WebDriverWait(driver,30);
 		WebElement chooseBrandSearch1 = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose Brand')][1]")));
-		////*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div[1]
 
 		//linksAndButtons.chooseBrandSearch1.click();
 		Testutil.mouseHover(driver, chooseBrandSearch1);
@@ -181,11 +170,16 @@ public class MoblieSearchPage extends TestBase {
 		Testutil.mouseHover(driver, chooseBrand1);
 		logger.info("Compare Brand Selected");
 
-		WebElement chooseProductSearch1 =driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]"));
+		WebElement chooseProductSearch1=driver.findElement(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[1]"));
+//		WebElement chooseProductSearch1 =driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]"));
 		Testutil.mouseHover(driver, chooseProductSearch1);
+		logger.info("Choose Product Search Bar");
 		
-		WebElement chooseProduct1 = driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]//following::div[@title='"+compareProductOne+ "']"));
-		Testutil.explicitWait(driver, chooseProduct1, 10);
+		WebDriverWait wait1 = new WebDriverWait(driver,30);
+		WebElement chooseProduct1 = wait1.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='container']/div/div/following::div[@title='"+compareProductOne+"']")));
+		
+		//WebElement chooseProduct1 = wait1.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[2]/div/div[19]")));
+		//js.executeScript("arguments[0].scrollIntoView(true);", chooseProduct1);
 		Testutil.mouseHover(driver, chooseProduct1);
 		logger.info("Product Selected");
 	}

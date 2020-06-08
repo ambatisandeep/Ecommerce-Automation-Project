@@ -5,11 +5,9 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.flipkart.base.TestBase;
-import com.flipkart.pages.MoblieSearchPage;
 import com.flipkart.utilitesPage.Testutil;
 
 
@@ -18,6 +16,7 @@ public class MobileSearchPageTest extends TestBase {
 	Logger logger =Logger.getLogger(MobileSearchPageTest.class);
 	MoblieSearchPage page;
 	Testutil testUtil;
+	String sheetName = "MobileSearch";
 
 	public MobileSearchPageTest() {
 		super();
@@ -32,6 +31,12 @@ public class MobileSearchPageTest extends TestBase {
 		driver.findElement(By.xpath("//*[@class='_2AkmmA _29YdH8']")).click();
 		logger.info("Pop Up closed");
 	}
+	
+	@DataProvider
+	public Object[][] getProjectData(){
+		Object data[][]=Testutil.getTestData(sheetName);
+		return data;
+	}
 
 	@Test
 	public void validatingUrlTest() {
@@ -39,47 +44,42 @@ public class MobileSearchPageTest extends TestBase {
 		Assert.assertEquals(actualTitle, "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!");
 	}
 
-	@Test
-	@Parameters("Product")
+	//Searching Product
+	@Test(dataProvider = "getProjectData")
 	public void searchProductsTest(String Product) {
-		//Searching Product
 		page.searchProducts(Product);
 	}
 
-
-	@Test
-	@Parameters({"Product","ram"})
 	//Ram Selection
+	@Test(dataProvider = "getProjectData")
 	public void ramSelectionTest(String Product ,String ram) {
 		searchProductsTest(Product);
 		page.ramSelection(ram);
 	}
 
-	@Test
-	@Parameters({"Product","ram","brandName"})
+	//Brand Selection
+	@Test(dataProvider = "getProjectData")
 	public void brandSelectionTest (String Product ,String ram,String brandName) {
-		//Brand Selection	
+			
 		searchProductsTest(Product);
 		page.ramSelection(ram);
 		page.brandSelection(brandName);
 	}
 
-	@Test
-	@Parameters({"Product","ram","brandName","mobileName"})
+	//Specified Mobile Selection
+	@Test(dataProvider = "getProjectData")
 	public void selectMobileTest (String Product ,String ram,String brandName,String mobileName) {
-		//Specified Mobile Selection	
+		
 		searchProductsTest(Product);
 		page.ramSelection(ram);
 		page.brandSelection(brandName);
 		page.selectMobile(mobileName);
 
 	}
-
-	@Test
-	@Parameters({"Product","ram","brandName","mobileName","compareBrandOne","compareProductOne"})
+	
+	//Compare Mobile
+	@Test(dataProvider = "getProjectData")
 	public void compareMobileTest (String Product ,String ram,String brandName,String mobileName,String compareBrandOne,String compareProductOne) throws InterruptedException {
-		//Compare Mobile
-
 		searchProductsTest(Product);
 		page.ramSelection(ram);
 		page.brandSelection(brandName);

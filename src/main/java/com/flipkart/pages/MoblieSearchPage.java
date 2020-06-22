@@ -14,6 +14,12 @@ import com.flipkart.base.TestBase;
 import com.flipkart.utilitesPage.Testutil;
 
 public class MoblieSearchPage extends TestBase {
+	
+	public String ramValue;
+	public String brandValue;
+	public String mobileNameValue;
+	public String chooseBrand1Value;
+	public String chooseProduct1Value;
 
 	Logger logger =Logger.getLogger(MoblieSearchPage.class);
 
@@ -25,7 +31,7 @@ public class MoblieSearchPage extends TestBase {
 		PageFactory.initElements(driver, this);
 		buttonsObj = new linksAndButtons(driver);
 	}
-	
+
 	public linksAndButtons getbuttonsObj() {
 		return buttonsObj;
 	}
@@ -56,25 +62,19 @@ public class MoblieSearchPage extends TestBase {
 
 	}
 
-
-
 	//Clicking search bar & passing product parameter
+	
 	public String searchProducts(String Product) {
+
 		linksAndButtons.searchBar.click();
-		logger.info("Clicked Product Search Bar");
+		logger.info("clicked Product Search Bar");
 
 		linksAndButtons.searchBar.sendKeys(Product);
-		logger.info("Search Product " + Product);
+		logger.info("Search Product -> " + Product);
 
 		linksAndButtons.searchButton.click();
-		logger.info("Search Button Clicked");
-		try {
-			Thread.sleep(2000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		//		String actualTitle = ;
+		logger.info("Search Button clicked");
+
 		logger.info(driver.getTitle());
 
 		return Product;
@@ -82,106 +82,125 @@ public class MoblieSearchPage extends TestBase {
 
 
 	//Selection of Ram Types
+
 	public String ramSelection (String ram) {
-		//
-		String ram6GB = "//*[contains(text(),'"+ram+" & Above')]/preceding::div[@class='_1p7h2j']";
-		String ramGB = "//*[contains(text(),'6 GB')]/following::div[@title='"+
-				ram+"']/div/div/label/div[@class='_1p7h2j']";
 
 		if(ram.equals("6 GB")){
-			driver.findElement(By.xpath(ram6GB)).click();
-			logger.info("6 GB and Above Ram Selected");
-		}else {
-			driver.findElement(By.xpath(ramGB)).click();
-			logger.info(ram + " Ram Selected ");
+			WebElement getRamTitle = driver.findElement(By.xpath("//*[@class='_1p7h2j']/ancestor::div[@title='"+ram+" & Above']"));
+			ramValue = getRamTitle.getAttribute("title");			
+			WebElement ram6GB = driver.findElement(By.xpath("//*[contains(text(),'"+ram+" & Above')]/preceding::div[@class='_1p7h2j']"));
+			ram6GB.click();
+			logger.info("Ram Selected -> " + ramValue);
+		}
+		else {
+
+			WebElement getRamTitle = driver.findElement(By.xpath("//*[@class='_1p7h2j']/ancestor::div[@title='"+ram+"']"));
+			ramValue = getRamTitle.getAttribute("title");
+			WebElement ramGB = driver.findElement(By.xpath("//*[contains(text(),'6 GB')]/following::div[@title='"+ram+"']/div/div/label/div[@class='_1p7h2j']"));
+			ramGB.click();
+			logger.info("Ram Selected -> " + ramValue);
 
 		}
-		String actualTitle = driver.getTitle();
-		logger.info(actualTitle);
-		return ram;
+		return ramValue;
 	}
 
 	//Selection of Brands
+
 	public String brandSelection (String brandName) {
 
 		String brandVisibleString = "//*[contains(text(),'6 GB')]/following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']";
 		try {
+			WebElement getBrandTitle = driver.findElement(By.xpath("//*[@class='_1p7h2j']/ancestor::div[@title='"+brandName+"']"));
+			brandValue = getBrandTitle.getAttribute("title");
+			logger.info(brandValue);
+			
 			WebElement brandVisibleElement = driver.findElement(By.xpath(brandVisibleString));
-			Testutil.explicitWait(driver, brandVisibleElement, 10);
-			boolean flag = brandVisibleElement.isDisplayed();
-			logger.info("Element Displayed " + flag);
-			boolean flip = brandVisibleElement.isEnabled();
-			logger.info("Element Displayed " + flip); 
-			if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled())
+			Testutil.explicitWait(driver, brandVisibleElement, 2);
+			if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled()) 
 				brandVisibleElement.click();
-			logger.info(brandName + " brand mobiles selected ");
-
 		}catch (NoSuchElementException e) {
 
-			linksAndButtons.searchBrandBar.click();
-			logger.info(" Clicked Mobile Search Bar ");
+			if(ramValue.equals("6 GB & Above")){
+				WebElement more = driver.findElement(By.xpath("//*[@id='container']/div/div[3]/div[2]/div/div[1]/div/div[1]/div/section[5]/div[2]/div[2]/span"));
+				more.click();
+				
+				WebElement getBrandTitle = driver.findElement(By.xpath("//*[@class='_1p7h2j']/ancestor::div[@title='"+brandName+"']"));
+				brandValue = getBrandTitle.getAttribute("title");
+				logger.info(brandValue);
+				
+				WebElement brandVisibleElement = driver.findElement(By.xpath(brandVisibleString));
+				
+				Testutil.explicitWait(driver, brandVisibleElement, 2);
+				if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled())
+					brandVisibleElement.click();
+			}else {
+				linksAndButtons.searchBrandBar.click();
+				logger.info("clicked mobile search bar ");
 
-			linksAndButtons.searchBrandBar.clear();
+				linksAndButtons.searchBrandBar.clear();
 
-			linksAndButtons.searchBrandBar.sendKeys(brandName);
-			logger.info(" Searching " + brandName);
+				linksAndButtons.searchBrandBar.sendKeys(brandName);
+				logger.info("Searching Brand -> " + brandName);
+				
+				WebElement getBrandTitle = driver.findElement(By.xpath("//*[@class='_1p7h2j']/ancestor::div[@title='"+brandName+"']"));
+				brandValue = getBrandTitle.getAttribute("title");
+				logger.info(brandValue);
 
-			String brandMoreString = "//*[@placeholder='Search Brand']//following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']";
-			WebElement brandMoreElement = driver.findElement(By.xpath(brandMoreString));
-			Testutil.explicitWait(driver, brandMoreElement, 5);
-			brandMoreElement.isDisplayed();
-			brandMoreElement.isEnabled();
-			brandMoreElement.click();
-			logger.info(brandName + " Brand Selected");
+				WebElement brandMoreElement = driver.findElement(By.xpath("//*[@placeholder='Search Brand']//following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']"));
+				Testutil.explicitWait(driver, brandMoreElement, 5);
+				brandMoreElement.isDisplayed();
+				brandMoreElement.isEnabled();
+				brandMoreElement.click();
+				logger.info("Brand Selected  -> " + brandName);
+			}
 		}
 
 		return brandName;
 
 	}
 
+
 	//Selecting Preferred Mobile
+
 	public String selectMobile(String mobileName) {
-		driver.findElement(By.xpath("//*[contains(text(),'"+mobileName+"')]")).click();
-		logger.info("Clicked "+ mobileName);
-		logger.info("Switched to New Tab");
-		//		Assert.assertEquals(actualTitle, "Vivo Z1Pro ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com");
+		WebElement mobileSelection = driver.findElement(By.xpath("//*[contains(text(),'"+mobileName+"')]"));
+		mobileNameValue = mobileSelection.getAttribute("text");
+		mobileSelection.click();
+		logger.info("clicked "+ mobileName);
 		return mobileName;
 	}
 
 	public void compareMobile(String compareBrandOne,String compareProductOne) {
-		
-		String actualTitle=driver.getTitle();
-		logger.info(actualTitle);
 
 		linksAndButtons.compareCheckBox.click();
-		logger.info("Compare CheckBox Clicked");
+		logger.info("Compare CheckBox clicked");
 
 		linksAndButtons.compareButton.click();
-		logger.info("Compare CheckBox Clicked");
+		logger.info("Compare Button clicked");
 
 		WebDriverWait wait = new WebDriverWait(driver,30);
 		WebElement chooseBrandSearch1 = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose Brand')][1]")));
 
 		//linksAndButtons.chooseBrandSearch1.click();
 		Testutil.mouseHover(driver, chooseBrandSearch1);
-		logger.info("chooseBrandSearch1 Clicked");
-
-		WebElement chooseBrand1 = driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose Brand')][1]//following::div[@title='"+compareBrandOne+"'][1]"));
+		logger.info("chooseBrandSearch1 clicked");
+		
+		WebElement chooseBrand1 = driver.findElement(By.xpath("(//*[@placeholder=\"Choose Brand\"]//following::div[@title='"+compareBrandOne+"'])[1]"));
+		chooseBrand1Value = chooseBrand1.getAttribute("title");
+		logger.info(chooseBrand1Value);
 		Testutil.mouseHover(driver, chooseBrand1);
-		logger.info("Compare Brand Selected");
+		logger.info("Selected Compare Brand -> " + compareBrandOne);
 
 		WebElement chooseProductSearch1=driver.findElement(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[1]"));
-//		WebElement chooseProductSearch1 =driver.findElement(By.xpath("//*[@id='container']/div/div/following::div[contains(text(),'Choose a Product')][1]"));
 		Testutil.mouseHover(driver, chooseProductSearch1);
 		logger.info("Choose Product Search Bar");
-		
+
 		WebDriverWait wait1 = new WebDriverWait(driver,30);
 		WebElement chooseProduct1 = wait1.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='container']/div/div/following::div[@title='"+compareProductOne+"']")));
-		
-		//WebElement chooseProduct1 = wait1.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='fk-compare-page']/div/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div[3]/div[2]/div/div[19]")));
-		//js.executeScript("arguments[0].scrollIntoView(true);", chooseProduct1);
+		chooseProduct1Value=chooseProduct1.getAttribute("title");
 		Testutil.mouseHover(driver, chooseProduct1);
-		logger.info("Product Selected");
+		logger.info("Selected Compare Product -> " + chooseProduct1Value );
 	}
+
 
 }

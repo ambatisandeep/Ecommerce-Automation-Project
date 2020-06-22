@@ -6,23 +6,31 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+
+import com.flipkart.utilitesPage.FilePath;
 
 
 public class TestBase {
 
 	public static WebDriver driver;
 	public static Properties prop;
-	static Logger logger  = Logger.getLogger(TestBase.class);
+	private static Logger logger  = Logger.getLogger(TestBase.class);
+	//static final String log4jConfPath = "log4j.properties";
 
 	public TestBase() {
 		try {
 			prop = new Properties();
 			FileInputStream file = new FileInputStream(System.getProperty("user.dir")+ "/src/main/java/com/flipkart/confiq/confiq.properties");
 			prop.load(file);
+			//BasicConfigurator.configure();
+			PropertyConfigurator.configure(FilePath.getLog4jPath());
+
 		}catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

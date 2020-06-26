@@ -1,0 +1,112 @@
+{
+  "uid" : "f53a3c9dfeb6cbb4",
+  "name" : "compareMobileTest",
+  "fullName" : "com.flipkart.testcases.MobileSearchPageTest.compareMobileTest",
+  "historyId" : "483af1462b27314de89be67a306567c3",
+  "time" : {
+    "start" : 1592842577740,
+    "stop" : 1592842590691,
+    "duration" : 12951
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592842564850,
+      "stop" : 1592842577733,
+      "duration" : 12883
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1592842590694,
+      "stop" : 1592842591783,
+      "duration" : 1089
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "compareMobileTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-K158F13"
+  }, {
+    "name" : "thread",
+    "value" : "12612@DESKTOP-K158F13.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Phones"
+  }, {
+    "name" : "arg1",
+    "value" : "6 GB"
+  }, {
+    "name" : "arg2",
+    "value" : "Motorola"
+  }, {
+    "name" : "arg3",
+    "value" : "Motorola Edge+ (Smoky Sangria, 256 GB)"
+  }, {
+    "name" : "arg4",
+    "value" : "Honor"
+  }, {
+    "name" : "arg5",
+    "value" : "Honor 20 (Midnight Black, 128 GB)"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f53a3c9dfeb6cbb4.json",
+  "parameterValues" : [ "Phones", "6 GB", "Motorola", "Motorola Edge+ (Smoky Sangria, 256 GB)", "Honor", "Honor 20 (Midnight Black, 128 GB)" ]
+}

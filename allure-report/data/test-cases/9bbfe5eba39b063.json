@@ -1,0 +1,112 @@
+{
+  "uid" : "9bbfe5eba39b063",
+  "name" : "compareMobileTest",
+  "fullName" : "com.flipkart.testcases.MobileSearchPageTest.compareMobileTest",
+  "historyId" : "79bbd4f9e231a30a0cf3044d9e061801",
+  "time" : {
+    "start" : 1592842604304,
+    "stop" : 1592842617299,
+    "duration" : 12995
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592842591788,
+      "stop" : 1592842604269,
+      "duration" : 12481
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1592842617302,
+      "stop" : 1592842618445,
+      "duration" : 1143
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "compareMobileTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-K158F13"
+  }, {
+    "name" : "thread",
+    "value" : "12612@DESKTOP-K158F13.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Phones"
+  }, {
+    "name" : "arg1",
+    "value" : "6 GB"
+  }, {
+    "name" : "arg2",
+    "value" : "Motorola"
+  }, {
+    "name" : "arg3",
+    "value" : "Motorola Razr (Black, 128 GB)"
+  }, {
+    "name" : "arg4",
+    "value" : "Honor"
+  }, {
+    "name" : "arg5",
+    "value" : "Honor 9N (Midnight Black, 128 GB)"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bbfe5eba39b063.json",
+  "parameterValues" : [ "Phones", "6 GB", "Motorola", "Motorola Razr (Black, 128 GB)", "Honor", "Honor 9N (Midnight Black, 128 GB)" ]
+}

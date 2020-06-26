@@ -1,0 +1,112 @@
+{
+  "uid" : "6b5db230d5820f0a",
+  "name" : "compareMobileTest",
+  "fullName" : "com.flipkart.testcases.MobileSearchPageTest.compareMobileTest",
+  "historyId" : "d7d6b33ea6018d7ea5337e9754e8d268",
+  "time" : {
+    "start" : 1592843169572,
+    "stop" : 1592843184265,
+    "duration" : 14693
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592843155823,
+      "stop" : 1592843169545,
+      "duration" : 13722
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1592843184267,
+      "stop" : 1592843185346,
+      "duration" : 1079
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "compareMobileTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-K158F13"
+  }, {
+    "name" : "thread",
+    "value" : "12612@DESKTOP-K158F13.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Phones"
+  }, {
+    "name" : "arg1",
+    "value" : "6 GB"
+  }, {
+    "name" : "arg2",
+    "value" : "Mi"
+  }, {
+    "name" : "arg3",
+    "value" : "Redmi Note 6 Pro (Red, 64 GB)"
+  }, {
+    "name" : "arg4",
+    "value" : "Redmi"
+  }, {
+    "name" : "arg5",
+    "value" : "Redmi Note 8 Pro (Gamma Green, 128 GB)"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b5db230d5820f0a.json",
+  "parameterValues" : [ "Phones", "6 GB", "Mi", "Redmi Note 6 Pro (Red, 64 GB)", "Redmi", "Redmi Note 8 Pro (Gamma Green, 128 GB)" ]
+}

@@ -12,6 +12,9 @@ import com.flipkart.base.TestBase;
 import com.flipkart.pages.MoblieSearchPage;
 import com.flipkart.utilitesPage.Testutil;
 
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
+
 
 public class MobileSearchPageTest extends TestBase {
 
@@ -41,18 +44,21 @@ public class MobileSearchPageTest extends TestBase {
 	}
 
 	@Test
+	@Severity(SeverityLevel.CRITICAL)
 	public void validatingUrlTest() {
 		String actualTitle=driver.getTitle();
 		Assert.assertEquals(actualTitle, "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!");
 	}
 
 	//Searching Product
+	@Severity(SeverityLevel.BLOCKER)
 	@Test(dataProvider = "getProjectData")
 	public void searchProductsTest(String Product) {
 		page.searchProducts(Product);
 	}
 
 	//Ram Selection
+	@Severity(SeverityLevel.CRITICAL)
 	@Test(dataProvider = "getProjectData")
 	public void ramSelectionTest(String Product ,String ram) {
 		page.searchProducts(Product);
@@ -62,6 +68,7 @@ public class MobileSearchPageTest extends TestBase {
 	}
 
 	//Brand Selection
+	@Severity(SeverityLevel.BLOCKER)
 	@Test(dataProvider = "getProjectData")
 	public void brandSelectionTest (String Product ,String ram,String brandName) {
 
@@ -73,6 +80,7 @@ public class MobileSearchPageTest extends TestBase {
 	}
 
 	//Specified Mobile Selection
+	@Severity(SeverityLevel.CRITICAL)
 	@Test(dataProvider = "getProjectData")
 	public void selectMobileTest (String Product ,String ram,String brandName,String mobileName) {
 
@@ -86,6 +94,7 @@ public class MobileSearchPageTest extends TestBase {
 	}
 
 	//Compare Mobile
+	@Severity(SeverityLevel.NORMAL)
 	@Test(dataProvider = "getProjectData")
 	public void compareMobileTest (String Product ,String ram,String brandName,String mobileName,String compareBrandOne,String compareProductOne) throws InterruptedException {
 		

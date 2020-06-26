@@ -5,7 +5,7 @@
     <classes>
       <class name="com.flipkart.testcases.MobileSearchPageTest">
         <methods>
-          <include name="compareMobileTest" invocation-numbers="0 1 6 7 8 11 13 14 17 18 21 25 26 29 48 53 54"/>
+          <include name="compareMobileTest" invocation-numbers="0 1"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>

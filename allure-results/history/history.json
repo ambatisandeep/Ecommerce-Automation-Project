@@ -1,0 +1,1084 @@
+{
+  "d44211bd6acefdb8a0ad77afccf98f06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed6ad97def60c076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843338005,
+        "stop" : 1592843351682,
+        "duration" : 13677
+      }
+    } ]
+  },
+  "b83136953cc447e83c606b3dcefca818" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "896b17be7dbaf488",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61323}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a406b10e3773b30a52388cb48a753938",
+      "time" : {
+        "start" : 1592842396169,
+        "stop" : 1592842400345,
+        "duration" : 4176
+      }
+    } ]
+  },
+  "6c808919c34bbeac1d2ba7cd4162a7aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6edee70f8a309d9",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='OPPO A9 2020 (Marine Green, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592843612174,
+        "stop" : 1592843667612,
+        "duration" : 55438
+      }
+    } ]
+  },
+  "6de81694fe1714dd348ebc95ba3dc6c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "871479f94d5fa9a4",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60721}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2d3331475c358facf2a18e75966c65a0",
+      "time" : {
+        "start" : 1592842099376,
+        "stop" : 1592842104069,
+        "duration" : 4693
+      }
+    } ]
+  },
+  "a3a0055af36382796871ac0e625eb130" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82ec0b2e8a46ef23",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Realme X (Polar White, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592842631015,
+        "stop" : 1592842684318,
+        "duration" : 53303
+      }
+    } ]
+  },
+  "ba5468562040c401f7a8f64411c3ef1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67ebc027b62a687f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842461470,
+        "stop" : 1592842475354,
+        "duration" : 13884
+      }
+    } ]
+  },
+  "3e6e037e1026f90b79662a0c482f05ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ffc093d9084a0319",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843198289,
+        "stop" : 1592843212334,
+        "duration" : 14045
+      }
+    } ]
+  },
+  "3e895fbe330b0215fbf0c7807e47390b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb9b9f0a6d4a6dad",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Realme X (Polar White, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592841942777,
+        "stop" : 1592841997136,
+        "duration" : 54359
+      }
+    } ]
+  },
+  "295d187177ef8af402c496d3f4f2eec0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "585208c5fef67ac0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843365078,
+        "stop" : 1592843378987,
+        "duration" : 13909
+      }
+    } ]
+  },
+  "318f2444e873885425f340902ead7fba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef5a8cd4baf4691e",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Realme Narzo 10 (That White, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592842822776,
+        "stop" : 1592842876874,
+        "duration" : 54098
+      }
+    } ]
+  },
+  "121431bc7b311562c694b1ffe59e0e1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ce6185b4c5a5dee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843309250,
+        "stop" : 1592843323752,
+        "duration" : 14502
+      }
+    } ]
+  },
+  "483af1462b27314de89be67a306567c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5837631bc823cc31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842577740,
+        "stop" : 1592842590691,
+        "duration" : 12951
+      }
+    } ]
+  },
+  "d38a24037ac26a29b7b71e45c011c824" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a0b71116bb3c78f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842432974,
+        "stop" : 1592842447358,
+        "duration" : 14384
+      }
+    } ]
+  },
+  "18e4d7296dde1fc1f710575eed734ee1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d08d1c8eb633fe39",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='OPPO F11 Pro (Aurora Green, 64 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592843392879,
+        "stop" : 1592843447050,
+        "duration" : 54171
+      }
+    } ]
+  },
+  "9bf0cd593203a650a7abff04a9a2e733" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76d9a8c4bf1378a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842765458,
+        "stop" : 1592842779995,
+        "duration" : 14537
+      }
+    } ]
+  },
+  "312820e93c6b5e983930e182c445e813" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3c8fa0cadaa23c1",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Realme X (Space Blue, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592842697647,
+        "stop" : 1592842750781,
+        "duration" : 53134
+      }
+    } ]
+  },
+  "afafe17ebca2fdd9d9c25fbb85828813" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e05c1d69843b8e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592841837740,
+        "stop" : 1592841870333,
+        "duration" : 32593
+      }
+    } ]
+  },
+  "d72946086f8ed43eedbae7c724cd297b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef8c6fb715e28cad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842528782,
+        "stop" : 1592842563297,
+        "duration" : 34515
+      }
+    } ]
+  },
+  "aa16a0d4c0f7b41770ac69846755d9e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "388bb25d6d11f73",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60227}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b523c9fd7f3cda7e6a1c3380993ffa48",
+      "time" : {
+        "start" : 1592841923696,
+        "stop" : 1592841928085,
+        "duration" : 4389
+      }
+    } ]
+  },
+  "c77ad26b0c4993a24f805a6a21553028" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37b596649e003c81",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ccc62416a4eef1b4a1d3528c094a5463",
+      "time" : {
+        "start" : 1592842490785,
+        "stop" : 1592842515287,
+        "duration" : 24502
+      }
+    } ]
+  },
+  "9ddaa5f5c10e845b202be90dd8291c15" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16723cb2eb3c7b77",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Samsung Galaxy M01 (Blue, 32 GB)')]\"}\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59374}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e296127a0b5336c96cc21765bb94d4ae\n*** Element info: {Using=xpath, value=//*[contains(text(),'Samsung Galaxy M01 (Blue, 32 GB)')]}",
+      "time" : {
+        "start" : 1592841108686,
+        "stop" : 1592841132775,
+        "duration" : 24089
+      }
+    } ]
+  },
+  "345872e6e0a591d9b76eb656c06afb88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "afc6f39586f528f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842347617,
+        "stop" : 1592842381010,
+        "duration" : 33393
+      }
+    } ]
+  },
+  "bbe8cdb78e7f57552a80d2a48036c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30c9735990498faa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842972665,
+        "stop" : 1592842985890,
+        "duration" : 13225
+      }
+    } ]
+  },
+  "c451bddd5de451a2cb4fc20e4d44f9ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eaa4eb672e2db8db",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60155}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a20a537d2fb91a14f1c4e157cf033b2f",
+      "time" : {
+        "start" : 1592841885232,
+        "stop" : 1592841909609,
+        "duration" : 24377
+      }
+    } ]
+  },
+  "ac98251468cac357bbeed5e4f506c7b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e048ad2d06802939",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592841810229,
+        "stop" : 1592841823471,
+        "duration" : 13242
+      }
+    } ]
+  },
+  "2fe9c44942a7a606620287f57aa9ae45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90d3d26f2ec4a10a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Redmi K20 (Carbon Black, 128 GB)')]\"}\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 53f83ab615e53c119e149cdbcf3b2c2a\n*** Element info: {Using=xpath, value=//*[contains(text(),'Redmi K20 (Carbon Black, 128 GB)')]}",
+      "time" : {
+        "start" : 1592843574028,
+        "stop" : 1592843598171,
+        "duration" : 24143
+      }
+    } ]
+  },
+  "79bbd4f9e231a30a0cf3044d9e061801" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d941ca292e1964b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842604304,
+        "stop" : 1592842617299,
+        "duration" : 12995
+      }
+    } ]
+  },
+  "1838910d9837c2130265a38389d942dd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e98e8a6739935bec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842118224,
+        "stop" : 1592842131025,
+        "duration" : 12801
+      }
+    } ]
+  },
+  "ed7e9e2ef9e110816a7cba940ba15a9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e256938b6e64ce7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842299344,
+        "stop" : 1592842332970,
+        "duration" : 33626
+      }
+    } ]
+  },
+  "6c9b0413f98455148759ed34f9e41fa4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c54f09eb978ac9d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842945380,
+        "stop" : 1592842959126,
+        "duration" : 13746
+      }
+    } ]
+  },
+  "69590fd7baef7bb29a4d53e48427fed1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "789e5414da8460aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842048152,
+        "stop" : 1592842083117,
+        "duration" : 34965
+      }
+    } ]
+  },
+  "b34dacbf84efe0a42e6758e9bb6d2248" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dae0fb5908a32408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592841728745,
+        "stop" : 1592841742318,
+        "duration" : 13573
+      }
+    } ]
+  },
+  "1503d69941826e70913ba4c0b8781fd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc76609ed7acaedb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843489130,
+        "stop" : 1592843503216,
+        "duration" : 14086
+      }
+    } ]
+  },
+  "d3ac509f901819547afa3a6b5a5e6875" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ce436cb08bc3b76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843461989,
+        "stop" : 1592843475814,
+        "duration" : 13825
+      }
+    } ]
+  },
+  "a76b623a4cc13edfd4440d07c97a0f29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ae9b3d93b0628cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843545600,
+        "stop" : 1592843559639,
+        "duration" : 14039
+      }
+    } ]
+  },
+  "e1aaaffa8f39acdae1015b9f58e8be7a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70f776b3c5ac04a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842014642,
+        "stop" : 1592842033702,
+        "duration" : 19060
+      }
+    } ]
+  },
+  "c47043ecaab1ea31fad01d1bde3ce00" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dea0ba8bc1938614",
+      "status" : "broken",
+      "statusDetails" : "timeout: Timed out receiving message from renderer: 20.000\n  (Session info: chrome=83.0.4103.106)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60867}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 37cf8da0e74ecde91c4fa6ef391f41c5",
+      "time" : {
+        "start" : 1592842146725,
+        "stop" : 1592842193714,
+        "duration" : 46989
+      }
+    } ]
+  },
+  "2f54f2b4b55c96eb722a8bfa8916acb7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "117ee1b77ec5b382",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843085981,
+        "stop" : 1592843100401,
+        "duration" : 14420
+      }
+    } ]
+  },
+  "d11ab3da3acd2a018285c8ba9e45b1d4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82f8ee34a08a8c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592841756718,
+        "stop" : 1592841794127,
+        "duration" : 37409
+      }
+    } ]
+  },
+  "5d6dc72a697acecfd03a8d3a7b59274e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c086cb771dac429",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843113585,
+        "stop" : 1592843126892,
+        "duration" : 13307
+      }
+    } ]
+  },
+  "d7d6b33ea6018d7ea5337e9754e8d268" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53e0615c3b3909a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843169572,
+        "stop" : 1592843184265,
+        "duration" : 14693
+      }
+    } ]
+  },
+  "bc2caa7962576b8b99c727555f807b05" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5afbf03f81910bbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842999669,
+        "stop" : 1592843013314,
+        "duration" : 13645
+      }
+    } ]
+  },
+  "2987971cdc0f004f6d62afd39fd0a5bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8417cfa95e4d5a80",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Honor 9N (Robin Egg Blue, 64 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592842209979,
+        "stop" : 1592842284448,
+        "duration" : 74469
+      }
+    } ]
+  },
+  "cd2ea3d4eb72e4f9b47b821a7195fba4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3cffb45a03ee82a1",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59723}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: d4b3cf5e5c212e6fdd7f9a1fad7cfd8e",
+      "time" : {
+        "start" : 1592841690830,
+        "stop" : 1592841714959,
+        "duration" : 24129
+      }
+    } ]
+  },
+  "94292bc44e21c14c882ee423ba4a4a44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2180a57ee084faf7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842917121,
+        "stop" : 1592842931215,
+        "duration" : 14094
+      }
+    } ]
+  },
+  "a05ef12db2f0f5d61014deeb82e573d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c018341ec9ca9367",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843516901,
+        "stop" : 1592843530659,
+        "duration" : 13758
+      }
+    } ]
+  },
+  "fb1ca36b6878ac7e4976f4a01d52e4ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68816f25a06f8fc4",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61386}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: aa9aa856f47a8dd1775fbb1cf793ba07",
+      "time" : {
+        "start" : 1592842414917,
+        "stop" : 1592842418719,
+        "duration" : 3802
+      }
+    } ]
+  },
+  "e49503ce50845fac1feb9165d3598533" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e717b85268d86908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843056029,
+        "stop" : 1592843070609,
+        "duration" : 14580
+      }
+    } ]
+  },
+  "e18aa1747ac25a2642a1ca8189c31786" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a22b6aaf5e8f094",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843141819,
+        "stop" : 1592843154733,
+        "duration" : 12914
+      }
+    } ]
+  },
+  "5ec6a6fea8e21f387e6bcb0d306c7f1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef139aaaba2ed7fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843226042,
+        "stop" : 1592843239336,
+        "duration" : 13294
+      }
+    } ]
+  },
+  "7a6a8603e3826bccc22f8ad121fbc45d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9bc456fa0bc1da7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842890847,
+        "stop" : 1592842904376,
+        "duration" : 13529
+      }
+    } ]
+  },
+  "daab37d20e06c85e4706c872579184c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "281c6ffa496a97b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592842794367,
+        "stop" : 1592842808219,
+        "duration" : 13852
+      }
+    } ]
+  },
+  "fc19d247bd93c6b6e66a772ad0d24d89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "def0fe84498a836",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843253736,
+        "stop" : 1592843267404,
+        "duration" : 13668
+      }
+    } ]
+  },
+  "8ba3c22f0785ec346d00cdb7a6f43a32" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d73cf3619abf214b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843281839,
+        "stop" : 1592843295709,
+        "duration" : 13870
+      }
+    } ]
+  },
+  "cf07aa5d690b892465c47e41512cbda1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c73039d47d0d8a1c",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Samsung Galaxy M11 (Blue, 32 GB)')]\"}\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59652}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 664acc9b8046191efe6cae4e6bd6162e\n*** Element info: {Using=xpath, value=//*[contains(text(),'Samsung Galaxy M11 (Blue, 32 GB)')]}",
+      "time" : {
+        "start" : 1592841653409,
+        "stop" : 1592841677560,
+        "duration" : 24151
+      }
+    } ]
+  },
+  "419f56bd0a1e3f6e9c42d68d0161bb3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b0c3fe5563a1fe1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592843028061,
+        "stop" : 1592843042191,
+        "duration" : 14130
+      }
+    } ]
+  }
+}

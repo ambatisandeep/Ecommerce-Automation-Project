@@ -1,0 +1,112 @@
+{
+  "uid" : "13874caf92e45687",
+  "name" : "compareMobileTest",
+  "fullName" : "com.flipkart.testcases.MobileSearchPageTest.compareMobileTest",
+  "historyId" : "ed7e9e2ef9e110816a7cba940ba15a9f",
+  "time" : {
+    "start" : 1592842299344,
+    "stop" : 1592842332970,
+    "duration" : 33626
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592842285534,
+      "stop" : 1592842299335,
+      "duration" : 13801
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1592842332979,
+      "stop" : 1592842334326,
+      "duration" : 1347
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "compareMobileTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-K158F13"
+  }, {
+    "name" : "thread",
+    "value" : "12612@DESKTOP-K158F13.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Phones"
+  }, {
+    "name" : "arg1",
+    "value" : "6 GB"
+  }, {
+    "name" : "arg2",
+    "value" : "Asus"
+  }, {
+    "name" : "arg3",
+    "value" : "Asus ROG (Black, 128 GB)"
+  }, {
+    "name" : "arg4",
+    "value" : "Huawei"
+  }, {
+    "name" : "arg5",
+    "value" : "Huawei Y9 Prime 2019 (Sapphire Blue, 128 GB)"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13874caf92e45687.json",
+  "parameterValues" : [ "Phones", "6 GB", "Asus", "Asus ROG (Black, 128 GB)", "Huawei", "Huawei Y9 Prime 2019 (Sapphire Blue, 128 GB)" ]
+}

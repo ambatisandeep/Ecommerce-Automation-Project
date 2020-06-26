@@ -1,0 +1,112 @@
+{
+  "uid" : "50a395e6a36fff2",
+  "name" : "compareMobileTest",
+  "fullName" : "com.flipkart.testcases.MobileSearchPageTest.compareMobileTest",
+  "historyId" : "e18aa1747ac25a2642a1ca8189c31786",
+  "time" : {
+    "start" : 1592843141819,
+    "stop" : 1592843154733,
+    "duration" : 12914
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592843128049,
+      "stop" : 1592843141813,
+      "duration" : 13764
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1592843154736,
+      "stop" : 1592843155820,
+      "duration" : 1084
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "compareMobileTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.flipkart.testcases.MobileSearchPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-K158F13"
+  }, {
+    "name" : "thread",
+    "value" : "12612@DESKTOP-K158F13.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Phones"
+  }, {
+    "name" : "arg1",
+    "value" : "6 GB"
+  }, {
+    "name" : "arg2",
+    "value" : "Mi"
+  }, {
+    "name" : "arg3",
+    "value" : "Redmi K20 Pro (Carbon Black, 128 GB)"
+  }, {
+    "name" : "arg4",
+    "value" : "Redmi"
+  }, {
+    "name" : "arg5",
+    "value" : "Redmi Note 8 Pro (Gamma Green, 64 GB)"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50a395e6a36fff2.json",
+  "parameterValues" : [ "Phones", "6 GB", "Mi", "Redmi K20 Pro (Carbon Black, 128 GB)", "Redmi", "Redmi Note 8 Pro (Gamma Green, 64 GB)" ]
+}

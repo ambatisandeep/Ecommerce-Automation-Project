@@ -1,0 +1,311 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Samsung Galaxy M01 (Blue, 32 GB)')]\"}\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59374}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e296127a0b5336c96cc21765bb94d4ae\n*** Element info: {Using=xpath, value=//*[contains(text(),'Samsung Galaxy M01 (Blue, 32 GB)')]}",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "f94f50bce50b9135",
+        "parentUid" : "78ae6b18ed921b01feb53b1270d8d12f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592841108686,
+          "stop" : 1592841132775,
+          "duration" : 24089
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "3 GB", "Samsung", "Samsung Galaxy M01 (Blue, 32 GB)", "Vivo", "Vivo Z1x (Fusion Blue, 128 GB)" ]
+      } ],
+      "uid" : "78ae6b18ed921b01feb53b1270d8d12f"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Samsung Galaxy M11 (Blue, 32 GB)')]\"}\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59652}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 664acc9b8046191efe6cae4e6bd6162e\n*** Element info: {Using=xpath, value=//*[contains(text(),'Samsung Galaxy M11 (Blue, 32 GB)')]}",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "91e543c11b21b839",
+        "parentUid" : "5f51da6c26bb068de7d1347ae1037814",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592841653409,
+          "stop" : 1592841677560,
+          "duration" : 24151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "3 GB", "Samsung", "Samsung Galaxy M11 (Blue, 32 GB)", "Vivo", "Vivo Z1x (Fusion Blue, 128 GB)" ]
+      } ],
+      "uid" : "5f51da6c26bb068de7d1347ae1037814"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59723}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: d4b3cf5e5c212e6fdd7f9a1fad7cfd8e",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "87692538d3bb6d9e",
+        "parentUid" : "567d9d2f6b6b04b48275bc0cd2f8ec9d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592841690830,
+          "stop" : 1592841714959,
+          "duration" : 24129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "2 GB", "Panasonic", "Panasonic ELUGA I6 (Black, 16 GB)", "Vivo", "Vivo Z1x (Fusion Blue, 64 GB)" ]
+      } ],
+      "uid" : "567d9d2f6b6b04b48275bc0cd2f8ec9d"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60155}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a20a537d2fb91a14f1c4e157cf033b2f",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "d5d2be8e737635eb",
+        "parentUid" : "1f59bf9f22b6058af062aae4858cf649",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592841885232,
+          "stop" : 1592841909609,
+          "duration" : 24377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Redmi", "Redmi Note 8 Pro (Halo White, 128 GB)", "Vivo", "Vivo Z1x (Phantom Purple, 128 GB)" ]
+      } ],
+      "uid" : "1f59bf9f22b6058af062aae4858cf649"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60227}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b523c9fd7f3cda7e6a1c3380993ffa48",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "2afc4fe50f3835b3",
+        "parentUid" : "51fe6240b86c06c56d934a276c3996ef",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592841923696,
+          "stop" : 1592841928085,
+          "duration" : 4389
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Realme", "Realme 5 Pro (Crystal Green, 128 GB)", "Realme", "Realme C3 (Frozen Blue, 64 GB)" ]
+      } ],
+      "uid" : "51fe6240b86c06c56d934a276c3996ef"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Realme X (Polar White, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "7dc2b44ce1b7f558",
+        "parentUid" : "6b84fd7698c4155940badacbefa5774b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592841942777,
+          "stop" : 1592841997136,
+          "duration" : 54359
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Mi", "Mi A3 (Kind of Grey, 128 GB)", "Realme", "Realme X (Polar White, 128 GB)" ]
+      }, {
+        "name" : "compareMobileTest",
+        "uid" : "63d1e547e9cb6034",
+        "parentUid" : "6b84fd7698c4155940badacbefa5774b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842631015,
+          "stop" : 1592842684318,
+          "duration" : 53303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Samsung", "Samsung Galaxy A51 (Prism Crush Black, 128 GB)", "Realme", "Realme X (Polar White, 128 GB)" ]
+      } ],
+      "uid" : "6b84fd7698c4155940badacbefa5774b"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60721}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2d3331475c358facf2a18e75966c65a0",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "18d0bf3b79c64db2",
+        "parentUid" : "c78919c6e153c04544ccde701360c1f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842099376,
+          "stop" : 1592842104069,
+          "duration" : 4693
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "POCO", "POCO X2 (Matrix Purple, 128 GB)", "iQOO", "iQOO 3 (Tornado Black, 128 GB)" ]
+      } ],
+      "uid" : "c78919c6e153c04544ccde701360c1f9"
+    }, {
+      "name" : "timeout: Timed out receiving message from renderer: 20.000\n  (Session info: chrome=83.0.4103.106)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60867}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 37cf8da0e74ecde91c4fa6ef391f41c5",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "94a76dac0225e7a0",
+        "parentUid" : "cfd3c3c52f4ca2815cfc4b55be47b1e3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842146725,
+          "stop" : 1592842193714,
+          "duration" : 46989
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "OnePlus", "OnePlus 7T (Frosted Silver, 128 GB)", "Honor", "Honor 9X (Midnight Black, 128 GB)" ]
+      } ],
+      "uid" : "cfd3c3c52f4ca2815cfc4b55be47b1e3"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Honor 9N (Robin Egg Blue, 64 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "be80f154251047f3",
+        "parentUid" : "12627fd58504b4ce7124e5c1d8fa6409",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842209979,
+          "stop" : 1592842284448,
+          "duration" : 74469
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "OnePlus", "OnePlus 7 (Mirror Grey, 128 GB)", "Honor", "Honor 9N (Robin Egg Blue, 64 GB)" ]
+      } ],
+      "uid" : "12627fd58504b4ce7124e5c1d8fa6409"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61323}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a406b10e3773b30a52388cb48a753938",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "926a8dff6acb1d17",
+        "parentUid" : "033b27f89a15d2e52e8f0af8228640de",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842396169,
+          "stop" : 1592842400345,
+          "duration" : 4176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "4 GB", "Samsung", "Samsung Galaxy S9 (Midnight Black, 64 GB)", "OPPO", "OPPO A7 (Glaring Gold, 64 GB)" ]
+      } ],
+      "uid" : "033b27f89a15d2e52e8f0af8228640de"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61386}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: aa9aa856f47a8dd1775fbb1cf793ba07",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "d310438c4092f03",
+        "parentUid" : "f27a92700e6997f2b79f21143b37fb67",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842414917,
+          "stop" : 1592842418719,
+          "duration" : 3802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "4 GB", "Samsung", "Samsung Galaxy S9 (Midnight Black, 64 GB)", "OPPO", "OPPO F11 Pro (Thunder Black, 128 GB)" ]
+      } ],
+      "uid" : "f27a92700e6997f2b79f21143b37fb67"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ccc62416a4eef1b4a1d3528c094a5463",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "b26f3ecc27a825c2",
+        "parentUid" : "c4953a1fcf89e838de09aa49561e72b8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842490785,
+          "stop" : 1592842515287,
+          "duration" : 24502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "4 GB", "Vivo", "Vivo Z1Pro (Sonic Blue, 64 GB)", "Redmi", "Redmi Note 8 Pro (Halo White, 64 GB)" ]
+      } ],
+      "uid" : "c4953a1fcf89e838de09aa49561e72b8"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Realme X (Space Blue, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "6ac4b69b54ee541e",
+        "parentUid" : "729458acc428e86c17a0526400325280",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842697647,
+          "stop" : 1592842750781,
+          "duration" : 53134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Samsung", "Samsung Galaxy A71 (Prism Crush Black, 128 GB)", "Realme", "Realme X (Space Blue, 128 GB)" ]
+      } ],
+      "uid" : "729458acc428e86c17a0526400325280"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='Realme Narzo 10 (That White, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "ae994c3624c17a5d",
+        "parentUid" : "d2dc9accaee585f18f62983857ab2d97",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592842822776,
+          "stop" : 1592842876874,
+          "duration" : 54098
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Samsung", "Samsung Galaxy A51 (Prism Crush White, 128 GB)", "Realme", "Realme Narzo 10 (That White, 128 GB)" ]
+      } ],
+      "uid" : "d2dc9accaee585f18f62983857ab2d97"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='OPPO F11 Pro (Aurora Green, 64 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "b0a6d501e64933a5",
+        "parentUid" : "00816d677a8acbe7b829b8127c1039a5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592843392879,
+          "stop" : 1592843447050,
+          "duration" : 54171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Mi", "Redmi K20 (Glacier Blue, 128 GB)", "OPPO", "OPPO F11 Pro (Aurora Green, 64 GB)" ]
+      } ],
+      "uid" : "00816d677a8acbe7b829b8127c1039a5"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Redmi K20 (Carbon Black, 128 GB)')]\"}\n  (Session info: chrome=83.0.4103.106)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-K158F13', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 53f83ab615e53c119e149cdbcf3b2c2a\n*** Element info: {Using=xpath, value=//*[contains(text(),'Redmi K20 (Carbon Black, 128 GB)')]}",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "6237721f45e1380b",
+        "parentUid" : "6735f17c65d9f362e1af99cfef0a777c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592843574028,
+          "stop" : 1592843598171,
+          "duration" : 24143
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Mi", "Redmi K20 (Carbon Black, 128 GB)", "OPPO", "OPPO K1 (Piano Black, 64 GB)" ]
+      } ],
+      "uid" : "6735f17c65d9f362e1af99cfef0a777c"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='container']/div/div/following::div[@title='OPPO A9 2020 (Marine Green, 128 GB)'] (tried for 30 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "compareMobileTest",
+        "uid" : "692601c7282eeff9",
+        "parentUid" : "ceee122aaea0afd62889952e3973b3c6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592843612174,
+          "stop" : 1592843667612,
+          "duration" : 55438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Phones", "6 GB", "Mi", "Redmi Note 5 Pro (Gold, 64 GB)", "OPPO", "OPPO A9 2020 (Marine Green, 128 GB)" ]
+      } ],
+      "uid" : "ceee122aaea0afd62889952e3973b3c6"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

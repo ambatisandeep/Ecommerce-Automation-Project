@@ -2529,3 +2529,1164 @@
 2020-06-22 22:03:45 INFO  MoblieSearchPage:190 - OPPO
 2020-06-22 22:03:46 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
 2020-06-22 22:03:46 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:49:17 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:49:24 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:49:27 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:49:28 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:49:29 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:49:29 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:49:36 INFO  MoblieSearchPage:101 - Ram Selected -> 3 GB
+2020-06-24 21:49:37 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 21:49:42 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy M11 (Black, 32 GB)
+2020-06-24 21:50:00 INFO  MobileSearchPageTest:107 - Samsung Galaxy M11 ( 32 GB Storage, 3 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:50:01 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:50:01 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:50:04 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:50:04 INFO  MoblieSearchPage:190 - Vivo
+2020-06-24 21:50:05 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-24 21:50:05 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:50:07 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Fusion Blue, 128 GB)
+2020-06-24 21:50:34 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:50:38 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:50:39 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:50:40 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:50:41 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:50:41 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:50:46 INFO  MoblieSearchPage:101 - Ram Selected -> 2 GB
+2020-06-24 21:51:07 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-24 21:51:08 INFO  MoblieSearchPage:143 - Searching Brand -> Panasonic
+2020-06-24 21:51:08 INFO  MoblieSearchPage:147 - Panasonic
+2020-06-24 21:51:09 INFO  MoblieSearchPage:154 - Brand Selected  -> Panasonic
+2020-06-24 21:51:12 INFO  MoblieSearchPage:169 - clicked Panasonic ELUGA I6 (Black, 16 GB)
+2020-06-24 21:51:28 INFO  MobileSearchPageTest:107 - Panasonic ELUGA I6 ( 16 GB Storage, 2 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:51:29 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:51:29 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:51:31 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:51:32 INFO  MoblieSearchPage:190 - Vivo
+2020-06-24 21:51:32 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-24 21:51:33 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:51:34 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Fusion Blue, 64 GB)
+2020-06-24 21:51:56 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:52:01 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:52:02 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:52:03 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:52:03 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:52:04 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:52:09 INFO  MoblieSearchPage:101 - Ram Selected -> 1 GB
+2020-06-24 21:52:11 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 21:52:15 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy J2 Core (Blue, 16 GB)
+2020-06-24 21:52:33 INFO  MobileSearchPageTest:107 - Samsung Galaxy J2 Core ( 16 GB Storage, 1 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:52:34 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:52:34 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:52:36 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:52:37 INFO  MoblieSearchPage:190 - Vivo
+2020-06-24 21:52:37 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-24 21:52:38 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:52:40 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Fusion Blue, 128 GB)
+2020-06-24 21:53:00 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:53:04 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:53:04 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:53:05 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:53:05 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:53:05 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:53:07 INFO  MoblieSearchPage:101 - Ram Selected -> 512 MB - 1 GB
+2020-06-24 21:53:27 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-24 21:53:28 INFO  MoblieSearchPage:143 - Searching Brand -> Lava
+2020-06-24 21:53:28 INFO  MoblieSearchPage:147 - Lava
+2020-06-24 21:53:28 INFO  MoblieSearchPage:154 - Brand Selected  -> Lava
+2020-06-24 21:53:29 INFO  MoblieSearchPage:169 - clicked Lava GEM
+2020-06-24 21:53:36 INFO  MobileSearchPageTest:107 - Lava GEM ( 512 GB Storage, 512 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:53:36 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:53:36 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:53:37 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:53:37 INFO  MoblieSearchPage:190 - Vivo
+2020-06-24 21:53:37 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-24 21:53:38 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:53:38 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Phantom Purple, 128 GB)
+2020-06-24 21:53:49 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:53:53 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:53:53 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:53:54 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:53:54 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:53:54 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:53:56 INFO  MoblieSearchPage:101 - Ram Selected -> Less than 512 MB
+2020-06-24 21:53:56 INFO  MoblieSearchPage:115 - Apple
+2020-06-24 21:53:58 INFO  MoblieSearchPage:169 - clicked Apple iPhone SE (Black, 64 GB)
+2020-06-24 21:54:05 INFO  MobileSearchPageTest:107 - iPhone SE ( 64 GB Storage) Online at Best Price On Flipkart.com
+2020-06-24 21:54:05 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:54:05 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:54:06 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:54:06 INFO  MoblieSearchPage:190 - Vivo
+2020-06-24 21:54:06 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-24 21:54:07 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:54:07 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1Pro (Sonic Black, 128 GB)
+2020-06-24 21:54:18 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:54:23 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:54:23 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:54:23 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:54:24 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:54:24 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:54:26 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-24 21:54:46 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-24 21:54:47 INFO  MoblieSearchPage:143 - Searching Brand -> Nokia
+2020-06-24 21:54:47 INFO  MoblieSearchPage:147 - Nokia
+2020-06-24 21:54:47 INFO  MoblieSearchPage:154 - Brand Selected  -> Nokia
+2020-06-24 21:54:48 INFO  MoblieSearchPage:169 - clicked Nokia 7.2 (Ice, 64 GB)
+2020-06-24 21:54:54 INFO  MobileSearchPageTest:107 - Nokia 7.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:54:54 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:54:55 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:54:56 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:54:56 INFO  MoblieSearchPage:190 - Vivo
+2020-06-24 21:54:56 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-24 21:54:57 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:54:58 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Phantom Purple, 64 GB)
+2020-06-24 21:55:09 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:55:13 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:55:13 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:55:13 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:55:14 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:55:14 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:55:16 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 21:55:36 INFO  MoblieSearchPage:129 - Redmi
+2020-06-24 21:55:48 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:55:51 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:55:52 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:55:52 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:55:52 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:55:52 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:55:54 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 21:55:54 INFO  MoblieSearchPage:115 - Realme
+2020-06-24 21:56:07 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:56:10 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:56:11 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:56:11 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:56:11 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:56:11 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:56:13 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 21:56:13 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 21:56:15 INFO  MoblieSearchPage:169 - clicked Mi A3 (Kind of Grey, 128 GB)
+2020-06-24 21:56:22 INFO  MobileSearchPageTest:107 - Mi A3 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:56:22 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:56:23 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:56:24 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:56:24 INFO  MoblieSearchPage:190 - Realme
+2020-06-24 21:56:24 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-24 21:56:24 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:56:25 INFO  MoblieSearchPage:202 - Selected Compare Product -> Realme X (Polar White, 128 GB)
+2020-06-24 21:56:35 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:56:39 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:56:39 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:56:40 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:56:40 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:56:40 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:56:42 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 21:56:42 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 21:56:44 INFO  MoblieSearchPage:169 - clicked Redmi K20 (Flame Red, 128 GB)
+2020-06-24 21:56:51 INFO  MobileSearchPageTest:107 - Mi Redmi K20 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:56:51 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:56:51 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:56:52 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:56:52 INFO  MoblieSearchPage:190 - Mi
+2020-06-24 21:56:52 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Mi
+2020-06-24 21:56:53 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:57:44 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:57:48 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:57:48 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:57:48 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:57:49 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:57:49 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:57:50 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 21:58:11 INFO  MoblieSearchPage:129 - Redmi
+2020-06-24 21:58:12 INFO  MoblieSearchPage:169 - clicked Redmi Note 8 Pro (Gamma Green, 64 GB)
+2020-06-24 21:58:19 INFO  MobileSearchPageTest:107 - Redmi Note 8 Pro ( 64 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:58:19 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:58:19 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:58:20 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:58:20 INFO  MoblieSearchPage:190 - Mi
+2020-06-24 21:58:21 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Mi
+2020-06-24 21:58:21 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:59:13 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:59:17 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:59:17 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:59:17 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 21:59:17 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:59:17 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 21:59:19 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 21:59:20 INFO  MoblieSearchPage:115 - POCO
+2020-06-24 21:59:21 INFO  MoblieSearchPage:169 - clicked POCO X2 (Matrix Purple, 128 GB)
+2020-06-24 21:59:28 INFO  MobileSearchPageTest:107 - POCO X2 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 21:59:28 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 21:59:29 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 21:59:29 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 21:59:30 INFO  MoblieSearchPage:190 - iQOO
+2020-06-24 21:59:30 INFO  MoblieSearchPage:192 - Selected Compare Brand -> iQOO
+2020-06-24 21:59:30 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 21:59:31 INFO  MoblieSearchPage:202 - Selected Compare Product -> iQOO 3 (Tornado Black, 128 GB)
+2020-06-24 21:59:41 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 21:59:46 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 21:59:46 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 21:59:46 INFO  MoblieSearchPage:73 - Search Product -> Electronics
+2020-06-24 21:59:47 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 21:59:47 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:00:17 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:00:21 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:00:22 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:00:22 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:00:22 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:00:22 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:00:24 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:00:45 INFO  MoblieSearchPage:129 - OnePlus
+2020-06-24 22:00:47 INFO  MoblieSearchPage:169 - clicked OnePlus 7T (Frosted Silver, 128 GB)
+2020-06-24 22:00:53 INFO  MobileSearchPageTest:107 - OnePlus 7T ( 128 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:00:53 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:00:53 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:00:54 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:00:54 INFO  MoblieSearchPage:190 - Honor
+2020-06-24 22:00:55 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Honor
+2020-06-24 22:00:55 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:00:56 INFO  MoblieSearchPage:202 - Selected Compare Product -> Honor 9X (Midnight Black, 128 GB)
+2020-06-24 22:01:07 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:01:11 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:01:11 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:01:11 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:01:11 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:01:12 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:01:13 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:01:34 INFO  MoblieSearchPage:129 - OnePlus
+2020-06-24 22:01:36 INFO  MoblieSearchPage:169 - clicked OnePlus 7 (Mirror Grey, 128 GB)
+2020-06-24 22:01:42 INFO  MobileSearchPageTest:107 - OnePlus 7 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:01:42 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:01:42 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:01:43 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:01:43 INFO  MoblieSearchPage:190 - Honor
+2020-06-24 22:01:44 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Honor
+2020-06-24 22:01:44 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:02:35 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:02:40 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:02:40 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:02:41 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:02:41 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:02:41 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:02:43 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:03:03 INFO  MoblieSearchPage:129 - Asus
+2020-06-24 22:03:05 INFO  MoblieSearchPage:169 - clicked Asus ROG (Black, 128 GB)
+2020-06-24 22:03:11 INFO  MobileSearchPageTest:107 - Asus ROG ( 128 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:03:11 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:03:12 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:03:13 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:03:13 INFO  MoblieSearchPage:190 - Huawei
+2020-06-24 22:03:13 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Huawei
+2020-06-24 22:03:15 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:03:15 INFO  MoblieSearchPage:202 - Selected Compare Product -> Huawei Y9 Prime 2019 (Sapphire Blue, 128 GB)
+2020-06-24 22:03:27 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:03:31 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:03:31 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:03:31 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:03:32 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:03:32 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:03:33 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:03:54 INFO  MoblieSearchPage:129 - Asus
+2020-06-24 22:03:56 INFO  MoblieSearchPage:169 - clicked Asus 6Z (Silver, 128 GB)
+2020-06-24 22:04:02 INFO  MobileSearchPageTest:107 - Asus 6Z ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:04:02 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:04:02 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:04:03 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:04:03 INFO  MoblieSearchPage:190 - Huawei
+2020-06-24 22:04:03 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Huawei
+2020-06-24 22:04:04 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:04:04 INFO  MoblieSearchPage:202 - Selected Compare Product -> Nexus 6P (Silver, 64 GB)
+2020-06-24 22:04:15 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:04:19 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:04:19 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:04:20 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:04:20 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:04:20 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:04:22 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-24 22:04:23 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:04:36 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:04:39 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:04:39 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:04:40 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:04:40 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:04:40 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:04:42 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-24 22:04:42 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:04:54 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:04:58 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:04:59 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:04:59 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:04:59 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:04:59 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:05:01 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-24 22:05:02 INFO  MoblieSearchPage:115 - Infinix
+2020-06-24 22:05:03 INFO  MoblieSearchPage:169 - clicked Infinix Hot 9 Pro (Ocean Wave, 64 GB)
+2020-06-24 22:05:10 INFO  MobileSearchPageTest:107 - Infinix Hot 9 Pro ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:05:10 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:05:11 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:05:11 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:05:11 INFO  MoblieSearchPage:190 - Nokia
+2020-06-24 22:05:12 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Nokia
+2020-06-24 22:05:12 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:06:04 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:06:08 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:06:08 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:06:08 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:06:08 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:06:08 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:06:10 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-24 22:06:11 INFO  MoblieSearchPage:115 - Infinix
+2020-06-24 22:06:12 INFO  MoblieSearchPage:169 - clicked Infinix S5 Lite (Midnight Black, 64 GB)
+2020-06-24 22:06:19 INFO  MobileSearchPageTest:107 - Infinix S5 Lite ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:06:19 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:06:20 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:06:20 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:06:20 INFO  MoblieSearchPage:190 - Nokia
+2020-06-24 22:06:21 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Nokia
+2020-06-24 22:06:21 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:06:21 INFO  MoblieSearchPage:202 - Selected Compare Product -> Nokia 3310 DS
+2020-06-24 22:06:32 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:06:37 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:06:37 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:06:37 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:06:38 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:06:38 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:06:39 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-24 22:07:00 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-24 22:07:00 INFO  MoblieSearchPage:143 - Searching Brand -> Vivo
+2020-06-24 22:07:00 INFO  MoblieSearchPage:147 - Vivo
+2020-06-24 22:07:00 INFO  MoblieSearchPage:154 - Brand Selected  -> Vivo
+2020-06-24 22:07:31 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:07:35 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:07:35 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:07:35 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:07:36 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:07:36 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:07:38 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-24 22:07:58 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-24 22:07:58 INFO  MoblieSearchPage:143 - Searching Brand -> Vivo
+2020-06-24 22:07:58 INFO  MoblieSearchPage:147 - Vivo
+2020-06-24 22:07:59 INFO  MoblieSearchPage:154 - Brand Selected  -> Vivo
+2020-06-24 22:08:00 INFO  MoblieSearchPage:169 - clicked Vivo V5 Plus (Gold, 64 GB)
+2020-06-24 22:08:04 INFO  MobileSearchPageTest:107 - Vivo V5 Plus ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:08:05 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:08:05 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:08:06 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:08:06 INFO  MoblieSearchPage:190 - Redmi
+2020-06-24 22:08:07 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Redmi
+2020-06-24 22:08:07 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:08:07 INFO  MoblieSearchPage:202 - Selected Compare Product -> Redmi Note 8 Pro (Gamma Green, 128 GB)
+2020-06-24 22:08:18 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:08:22 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:08:22 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:08:22 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:08:22 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:08:22 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:08:24 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:08:25 INFO  MoblieSearchPage:115 - Motorola
+2020-06-24 22:08:26 INFO  MoblieSearchPage:169 - clicked Motorola Edge+ (Smoky Sangria, 256 GB)
+2020-06-24 22:08:32 INFO  MobileSearchPageTest:107 - Motorola Edge+ ( 256 GB Storage, 12 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:08:32 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:08:32 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:08:33 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:08:33 INFO  MoblieSearchPage:190 - Honor
+2020-06-24 22:08:34 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Honor
+2020-06-24 22:08:34 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:08:35 INFO  MoblieSearchPage:202 - Selected Compare Product -> Honor 20 (Midnight Black, 128 GB)
+2020-06-24 22:08:45 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:08:50 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:08:50 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:08:51 INFO  MoblieSearchPage:73 - Search Product -> Power Banks
+2020-06-24 22:08:51 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:08:51 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:09:22 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:09:25 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:09:25 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:09:26 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:09:26 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:09:26 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:09:28 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:09:28 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:09:30 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy A51 (Prism Crush Black, 128 GB)
+2020-06-24 22:09:36 INFO  MobileSearchPageTest:107 - Samsung Galaxy A51 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:09:36 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:09:36 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:09:37 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:09:37 INFO  MoblieSearchPage:190 - Realme
+2020-06-24 22:09:37 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-24 22:09:38 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:09:38 INFO  MoblieSearchPage:202 - Selected Compare Product -> Realme X (Polar White, 128 GB)
+2020-06-24 22:09:49 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:09:53 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:09:53 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:09:53 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:09:54 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:09:54 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:09:55 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:09:56 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:10:27 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:10:31 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:10:31 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:10:31 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:10:32 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:10:32 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:10:34 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:10:34 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:10:36 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy S10 Lite (Prism Black, 128 GB)
+2020-06-24 22:10:43 INFO  MobileSearchPageTest:107 - Samsung Galaxy S10 Lite ( 128 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:10:43 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:10:43 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:10:44 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:10:44 INFO  MoblieSearchPage:190 - Realme
+2020-06-24 22:10:44 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-24 22:10:44 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:10:45 INFO  MoblieSearchPage:202 - Selected Compare Product -> Realme 5 Pro (Sparkling Blue, 128 GB)
+2020-06-24 22:10:55 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:11:00 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:11:00 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:11:00 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:11:00 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:11:00 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:11:02 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:11:03 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:11:05 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy S10 Lite (Prism White, 128 GB)
+2020-06-24 22:11:12 INFO  MobileSearchPageTest:107 - Samsung Galaxy S10 Lite ( 128 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:11:12 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:11:12 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:11:13 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:11:13 INFO  MoblieSearchPage:190 - Realme
+2020-06-24 22:11:13 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-24 22:11:14 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:11:14 INFO  MoblieSearchPage:202 - Selected Compare Product -> Realme 5 Pro (Sparkling Blue, 64 GB)
+2020-06-24 22:11:25 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:11:30 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:11:30 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:11:30 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:11:30 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:11:30 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:11:32 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:11:33 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:12:05 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:12:09 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:12:09 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:12:09 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:12:10 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:12:10 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:12:12 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:12:12 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:12:14 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy A50 (Black, 64 GB)
+2020-06-24 22:12:20 INFO  MobileSearchPageTest:107 - Samsung Galaxy A50 ( 64 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:12:20 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:12:20 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:12:21 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:12:21 INFO  MoblieSearchPage:190 - Realme
+2020-06-24 22:12:22 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-24 22:12:22 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:13:14 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:13:18 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:13:18 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:13:18 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:13:18 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:13:19 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:13:20 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:13:21 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:13:52 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:13:57 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:13:57 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:13:57 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:13:57 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:13:57 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:13:59 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:14:00 INFO  MoblieSearchPage:115 - Samsung
+2020-06-24 22:14:02 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy A50 (Blue, 64 GB)
+2020-06-24 22:14:09 INFO  MobileSearchPageTest:107 - Samsung Galaxy A50 ( 64 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:14:09 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:14:09 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:14:10 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:14:10 INFO  MoblieSearchPage:190 - Realme
+2020-06-24 22:14:10 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-24 22:14:11 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:15:02 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:15:06 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:15:06 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:15:06 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:15:06 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:15:07 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:15:08 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:15:09 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:15:10 INFO  MoblieSearchPage:169 - clicked Mi A2 (Red, 128 GB)
+2020-06-24 22:15:17 INFO  MobileSearchPageTest:107 - Mi Mi A2 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:15:17 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:15:17 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:15:18 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:15:18 INFO  MoblieSearchPage:190 - Redmi
+2020-06-24 22:15:18 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Redmi
+2020-06-24 22:15:19 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:15:19 INFO  MoblieSearchPage:202 - Selected Compare Product -> Redmi Note 8 Pro (Shadow Black, 64 GB)
+2020-06-24 22:15:30 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:15:33 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:15:33 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:15:34 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:15:34 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:15:34 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:15:36 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:15:36 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:15:38 INFO  MoblieSearchPage:169 - clicked Mi A3 (More Than White, 128 GB)
+2020-06-24 22:15:45 INFO  MobileSearchPageTest:107 - Mi A3 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:15:45 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:15:46 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:15:47 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:15:47 INFO  MoblieSearchPage:190 - Redmi
+2020-06-24 22:15:47 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Redmi
+2020-06-24 22:15:48 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:15:48 INFO  MoblieSearchPage:202 - Selected Compare Product -> Redmi Note 8 Pro (Halo White, 128 GB)
+2020-06-24 22:15:58 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:16:03 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:16:03 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:16:03 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:16:04 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:16:04 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:16:06 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:16:06 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:16:37 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:16:40 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:16:41 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:16:41 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:16:41 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:16:41 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:16:43 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:16:44 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:17:15 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:17:19 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:17:19 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:17:19 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:17:20 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:17:20 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:17:21 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:17:22 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:17:53 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:17:58 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:17:58 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:17:58 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:17:58 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:17:58 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:18:00 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:18:01 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:18:02 INFO  MoblieSearchPage:169 - clicked Redmi K20 Pro (Flame Red, 128 GB)
+2020-06-24 22:18:09 INFO  MobileSearchPageTest:107 - Redmi K20 Pro ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:18:09 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:18:09 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:18:10 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:18:10 INFO  MoblieSearchPage:190 - Redmi
+2020-06-24 22:18:10 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Redmi
+2020-06-24 22:18:11 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:18:11 INFO  MoblieSearchPage:202 - Selected Compare Product -> Redmi Note 8 Pro (Gamma Green, 128 GB)
+2020-06-24 22:18:22 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:18:26 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:18:27 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:18:27 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:18:27 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:18:27 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:18:29 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:18:29 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:18:31 INFO  MoblieSearchPage:169 - clicked Redmi K20 Pro (Carbon Black, 128 GB)
+2020-06-24 22:19:04 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:19:09 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:19:09 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:19:09 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:19:09 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:19:09 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:19:11 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:19:12 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:19:44 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:19:47 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:19:48 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:19:48 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:19:48 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:19:48 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:19:50 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:19:51 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:20:22 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:20:26 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:20:26 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:20:26 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:20:27 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:20:27 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:20:28 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:20:29 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:20:30 INFO  MoblieSearchPage:169 - clicked Redmi Note 8 (Cosmic Purple, 128 GB)
+2020-06-24 22:20:37 INFO  MobileSearchPageTest:107 - Mi Redmi Note 8 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:20:39 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:20:39 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:20:40 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:20:40 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:20:40 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:20:41 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:20:41 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO A52 (Twilight Black, 128 GB)
+2020-06-24 22:20:52 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:20:56 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:20:56 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:20:56 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:20:57 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:20:57 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:20:58 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:20:59 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:21:00 INFO  MoblieSearchPage:169 - clicked Redmi K20 Pro (Flame Red, 256 GB)
+2020-06-24 22:21:06 INFO  MobileSearchPageTest:107 - Mi Redmi K20 Pro ( 256 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:21:06 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:21:06 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:21:07 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:21:08 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:21:08 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:21:08 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:21:09 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO A31 (Fantasy White, 64 GB)
+2020-06-24 22:21:20 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:21:24 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:21:24 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:21:25 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:21:25 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:21:25 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:21:27 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:21:27 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:21:29 INFO  MoblieSearchPage:169 - clicked Mi A3 (Kind of Grey, 128 GB)
+2020-06-24 22:21:35 INFO  MobileSearchPageTest:107 - Mi A3 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:21:35 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:21:35 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:21:36 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:21:36 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:21:36 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:21:37 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:21:37 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO A31 (Fantasy White, 128 GB)
+2020-06-24 22:21:47 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:21:52 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:21:52 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:21:53 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:21:53 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:21:53 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:21:54 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:21:55 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:22:26 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:22:30 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:22:30 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:22:30 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:22:30 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:22:30 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:22:33 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:22:33 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:23:04 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:23:08 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:23:08 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:23:08 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:23:08 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:23:08 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:23:10 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:23:11 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:23:12 INFO  MoblieSearchPage:169 - clicked Redmi K20 Pro (Pearl White, 128 GB)
+2020-06-24 22:23:19 INFO  MobileSearchPageTest:107 - Mi Redmi K20 Pro ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:23:19 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:23:19 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:23:20 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:23:20 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:23:20 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:23:21 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:23:21 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO F11 Pro (Thunder Black, 64 GB)
+2020-06-24 22:23:32 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:23:36 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:23:36 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:23:36 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:23:37 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:23:37 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:23:38 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:23:39 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:23:40 INFO  MoblieSearchPage:169 - clicked Redmi K20 (Glacier Blue, 128 GB)
+2020-06-24 22:23:46 INFO  MobileSearchPageTest:107 - Mi Redmi K20 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:23:46 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:23:47 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:23:47 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:23:47 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:23:48 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:23:48 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:24:39 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:24:43 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:24:44 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:24:44 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:24:44 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:24:44 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:24:46 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:24:47 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:24:49 INFO  MoblieSearchPage:169 - clicked Redmi K20 Pro (Pearl White, 256 GB)
+2020-06-24 22:24:55 INFO  MobileSearchPageTest:107 - Mi Redmi K20 Pro ( 256 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:24:55 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:24:55 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:24:56 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:24:56 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:24:56 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:24:57 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:24:57 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO A5 2020 (Mirror Black, 64 GB)
+2020-06-24 22:25:08 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:25:12 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:25:12 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:25:13 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:25:13 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:25:13 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:25:15 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:25:15 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:25:17 INFO  MoblieSearchPage:169 - clicked Redmi K20 (Carbon Black, 64 GB)
+2020-06-24 22:25:23 INFO  MobileSearchPageTest:107 - Mi Redmi K20 ( 64 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:25:23 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:25:24 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:25:25 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:25:25 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:25:25 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:25:25 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:25:26 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO A5 2020 (Dazzling White, 64 GB)
+2020-06-24 22:25:39 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:25:43 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:25:43 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:25:44 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:25:44 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:25:44 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:25:46 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:25:47 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:25:49 INFO  MoblieSearchPage:169 - clicked Redmi K20 Pro (Carbon Black, 256 GB)
+2020-06-24 22:25:56 INFO  MobileSearchPageTest:107 - Mi Redmi K20 Pro ( 256 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:25:56 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:25:56 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:25:57 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:25:57 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:25:58 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:25:58 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:25:59 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO A1K (Black, 32 GB)
+2020-06-24 22:26:09 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:26:14 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:26:14 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:26:14 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:26:15 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:26:15 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:26:17 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:26:18 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:26:19 INFO  MoblieSearchPage:169 - clicked Redmi K20 (Flame Red, 128 GB)
+2020-06-24 22:26:26 INFO  MobileSearchPageTest:107 - Mi Redmi K20 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:26:26 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:26:26 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:26:27 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:26:27 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:26:27 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:26:28 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:26:28 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO F15 (Unicorn White, 128 GB)
+2020-06-24 22:26:39 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:26:44 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:26:44 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:26:44 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:26:44 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:26:44 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:26:47 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:26:48 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:26:49 INFO  MoblieSearchPage:169 - clicked Redmi K20 (Carbon Black, 128 GB)
+2020-06-24 22:26:56 INFO  MobileSearchPageTest:107 - Mi Redmi K20 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:26:56 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:26:57 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:26:58 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:26:58 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:26:58 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:26:58 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:26:59 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO K1 (Piano Black, 64 GB)
+2020-06-24 22:27:10 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-24 22:27:13 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-24 22:27:13 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-24 22:27:14 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-24 22:27:14 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-24 22:27:14 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-24 22:27:16 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-24 22:27:16 INFO  MoblieSearchPage:115 - Mi
+2020-06-24 22:27:18 INFO  MoblieSearchPage:169 - clicked Redmi Note 5 Pro (Gold, 64 GB)
+2020-06-24 22:27:25 INFO  MobileSearchPageTest:107 - Mi Redmi Note 5 Pro ( 64 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-24 22:27:25 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-24 22:27:25 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-24 22:27:26 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-24 22:27:26 INFO  MoblieSearchPage:190 - OPPO
+2020-06-24 22:27:27 INFO  MoblieSearchPage:192 - Selected Compare Brand -> OPPO
+2020-06-24 22:27:27 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-24 22:27:28 INFO  MoblieSearchPage:202 - Selected Compare Product -> OPPO A9 2020 (Marine Green, 128 GB)
+2020-06-26 21:07:35 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:07:40 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:07:41 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:07:41 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:07:42 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:07:42 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:07:47 INFO  MoblieSearchPage:101 - Ram Selected -> 3 GB
+2020-06-26 21:07:47 INFO  MoblieSearchPage:115 - Samsung
+2020-06-26 21:08:02 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:08:07 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:08:08 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:08:08 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:08:08 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:08:08 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:08:10 INFO  MoblieSearchPage:101 - Ram Selected -> 2 GB
+2020-06-26 21:08:30 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-26 21:08:31 INFO  MoblieSearchPage:143 - Searching Brand -> Panasonic
+2020-06-26 21:08:31 INFO  MoblieSearchPage:147 - Panasonic
+2020-06-26 21:08:31 INFO  MoblieSearchPage:154 - Brand Selected  -> Panasonic
+2020-06-26 21:08:57 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:09:01 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:09:01 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:09:01 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:09:01 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:09:01 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:09:05 INFO  MoblieSearchPage:101 - Ram Selected -> 1 GB
+2020-06-26 21:09:05 INFO  MoblieSearchPage:115 - Samsung
+2020-06-26 21:09:17 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:09:21 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:09:21 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:09:21 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:09:21 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:09:21 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:09:23 INFO  MoblieSearchPage:101 - Ram Selected -> 512 MB - 1 GB
+2020-06-26 21:09:44 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-26 21:09:44 INFO  MoblieSearchPage:143 - Searching Brand -> Lava
+2020-06-26 21:09:44 INFO  MoblieSearchPage:147 - Lava
+2020-06-26 21:09:44 INFO  MoblieSearchPage:154 - Brand Selected  -> Lava
+2020-06-26 21:09:57 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:10:02 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:10:02 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:10:02 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:10:02 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:10:02 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:10:04 INFO  MoblieSearchPage:101 - Ram Selected -> Less than 512 MB
+2020-06-26 21:10:05 INFO  MoblieSearchPage:115 - Apple
+2020-06-26 21:10:06 INFO  MoblieSearchPage:169 - clicked Apple iPhone SE (Black, 64 GB)
+2020-06-26 21:10:13 INFO  MobileSearchPageTest:107 - iPhone SE ( 64 GB Storage) Online at Best Price On Flipkart.com
+2020-06-26 21:10:13 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 21:10:14 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 21:10:15 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 21:10:15 INFO  MoblieSearchPage:190 - Vivo
+2020-06-26 21:10:15 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-26 21:10:15 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 21:10:16 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1Pro (Sonic Black, 128 GB)
+2020-06-26 21:10:27 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:10:32 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:10:32 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:10:32 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:10:32 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:10:32 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:10:34 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-26 21:10:54 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-26 21:10:55 INFO  MoblieSearchPage:143 - Searching Brand -> Nokia
+2020-06-26 21:10:55 INFO  MoblieSearchPage:147 - Nokia
+2020-06-26 21:10:55 INFO  MoblieSearchPage:154 - Brand Selected  -> Nokia
+2020-06-26 21:10:56 INFO  MoblieSearchPage:169 - clicked Nokia 7.2 (Ice, 64 GB)
+2020-06-26 21:11:03 INFO  MobileSearchPageTest:107 - Nokia 7.2 ( 64 GB Storage, 4 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 21:11:03 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 21:11:03 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 21:11:05 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 21:11:05 INFO  MoblieSearchPage:190 - Vivo
+2020-06-26 21:11:06 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-26 21:11:06 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 21:11:06 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Phantom Purple, 64 GB)
+2020-06-26 21:11:17 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:11:22 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:11:22 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:11:22 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:11:22 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:11:22 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:11:25 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 21:11:45 INFO  MoblieSearchPage:129 - Redmi
+2020-06-26 21:12:01 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:12:05 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:12:06 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:12:06 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:12:06 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:12:06 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:12:09 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 21:12:10 INFO  MoblieSearchPage:115 - Realme
+2020-06-26 21:12:26 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:12:29 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:12:30 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:12:30 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:12:30 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:12:30 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:12:35 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 21:12:35 INFO  MoblieSearchPage:115 - Mi
+2020-06-26 21:12:37 INFO  MoblieSearchPage:169 - clicked Mi A3 (Kind of Grey, 128 GB)
+2020-06-26 21:12:45 INFO  MobileSearchPageTest:107 - Mi A3 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 21:12:45 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 21:12:45 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 21:12:46 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 21:12:46 INFO  MoblieSearchPage:190 - Realme
+2020-06-26 21:12:47 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-26 21:12:47 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 21:12:47 INFO  MoblieSearchPage:202 - Selected Compare Product -> Realme X (Polar White, 128 GB)
+2020-06-26 21:12:59 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:13:03 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:13:03 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:13:03 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:13:03 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:13:03 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:13:05 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 21:13:06 INFO  MoblieSearchPage:115 - Mi
+2020-06-26 21:13:08 INFO  MoblieSearchPage:169 - clicked Redmi K20 (Flame Red, 128 GB)
+2020-06-26 21:13:15 INFO  MobileSearchPageTest:107 - Mi Redmi K20 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 21:13:15 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 21:13:15 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 21:13:16 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 21:13:16 INFO  MoblieSearchPage:190 - Mi
+2020-06-26 21:13:17 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Mi
+2020-06-26 21:13:17 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 21:14:08 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:14:13 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:14:13 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:14:13 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:14:13 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:14:13 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:14:15 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 21:14:36 INFO  MoblieSearchPage:129 - Redmi
+2020-06-26 21:14:38 INFO  MoblieSearchPage:169 - clicked Redmi Note 8 Pro (Gamma Green, 64 GB)
+2020-06-26 21:14:48 INFO  MobileSearchPageTest:107 - Redmi Note 8 Pro ( 64 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 21:14:48 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 21:14:48 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 21:14:51 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 21:14:51 INFO  MoblieSearchPage:190 - Mi
+2020-06-26 21:14:51 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Mi
+2020-06-26 21:14:52 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 21:15:49 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:15:53 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:15:53 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:15:53 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:15:53 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:15:53 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:16:04 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 21:16:04 INFO  MoblieSearchPage:115 - POCO
+2020-06-26 21:16:06 INFO  MoblieSearchPage:169 - clicked POCO X2 (Matrix Purple, 128 GB)
+2020-06-26 21:16:13 INFO  MobileSearchPageTest:107 - POCO X2 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 21:16:13 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 21:16:13 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 21:16:14 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 21:16:14 INFO  MoblieSearchPage:190 - iQOO
+2020-06-26 21:16:14 INFO  MoblieSearchPage:192 - Selected Compare Brand -> iQOO
+2020-06-26 21:16:15 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 21:16:15 INFO  MoblieSearchPage:202 - Selected Compare Product -> iQOO 3 (Tornado Black, 128 GB)
+2020-06-26 21:16:39 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:16:43 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:16:43 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:16:43 INFO  MoblieSearchPage:73 - Search Product -> Electronics
+2020-06-26 21:16:43 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:16:43 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:17:56 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:48:09 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:48:13 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:48:14 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:48:14 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:48:14 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:48:14 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:48:49 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:48:53 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:48:54 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:48:54 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:48:54 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:48:54 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:48:56 INFO  MoblieSearchPage:101 - Ram Selected -> 2 GB
+2020-06-26 21:49:16 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-26 21:49:17 INFO  MoblieSearchPage:143 - Searching Brand -> Panasonic
+2020-06-26 21:49:17 INFO  MoblieSearchPage:147 - Panasonic
+2020-06-26 21:49:17 INFO  MoblieSearchPage:154 - Brand Selected  -> Panasonic
+2020-06-26 21:49:32 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 21:49:35 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 21:49:35 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 21:49:35 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 21:49:36 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 21:49:36 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 21:49:38 INFO  MoblieSearchPage:101 - Ram Selected -> 1 GB
+2020-06-26 21:49:39 INFO  MoblieSearchPage:115 - Samsung
+2020-06-26 21:49:40 INFO  MoblieSearchPage:169 - clicked Samsung Galaxy J2 Core (Blue, 16 GB)
+2020-06-26 21:49:46 INFO  MobileSearchPageTest:107 - Samsung Galaxy J2 Core ( 16 GB Storage, 1 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 21:49:46 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 21:49:47 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 21:49:47 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 21:49:48 INFO  MoblieSearchPage:190 - Vivo
+2020-06-26 21:49:48 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-26 21:49:48 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 21:49:49 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Fusion Blue, 128 GB)
+2020-06-26 21:50:01 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:04:50 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:04:53 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:04:54 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:04:55 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:04:55 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:04:55 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:05:26 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:05:30 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:05:30 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:05:31 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:05:31 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:05:31 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:05:33 INFO  MoblieSearchPage:101 - Ram Selected -> 2 GB
+2020-06-26 22:05:53 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-26 22:05:54 INFO  MoblieSearchPage:143 - Searching Brand -> Panasonic
+2020-06-26 22:05:54 INFO  MoblieSearchPage:147 - Panasonic
+2020-06-26 22:05:54 INFO  MoblieSearchPage:154 - Brand Selected  -> Panasonic
+2020-06-26 22:06:12 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:06:16 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:06:16 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:06:16 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:06:17 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:06:17 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:06:19 INFO  MoblieSearchPage:101 - Ram Selected -> 1 GB
+2020-06-26 22:06:19 INFO  MoblieSearchPage:115 - Samsung
+2020-06-26 22:06:35 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:06:38 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:06:38 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:06:38 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:06:39 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:06:39 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:06:41 INFO  MoblieSearchPage:101 - Ram Selected -> 512 MB - 1 GB
+2020-06-26 22:07:01 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-26 22:07:01 INFO  MoblieSearchPage:143 - Searching Brand -> Lava
+2020-06-26 22:07:01 INFO  MoblieSearchPage:147 - Lava
+2020-06-26 22:07:02 INFO  MoblieSearchPage:154 - Brand Selected  -> Lava
+2020-06-26 22:07:03 INFO  MoblieSearchPage:169 - clicked Lava GEM
+2020-06-26 22:07:12 INFO  MobileSearchPageTest:107 - Lava GEM ( 512 GB Storage, 512 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 22:07:12 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 22:07:12 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 22:07:14 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 22:07:14 INFO  MoblieSearchPage:190 - Vivo
+2020-06-26 22:07:14 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-26 22:07:15 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 22:07:15 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1x (Phantom Purple, 128 GB)
+2020-06-26 22:07:35 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:07:39 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:07:39 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:07:39 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:07:40 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:07:40 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:07:42 INFO  MoblieSearchPage:101 - Ram Selected -> Less than 512 MB
+2020-06-26 22:07:43 INFO  MoblieSearchPage:115 - Apple
+2020-06-26 22:07:44 INFO  MoblieSearchPage:169 - clicked Apple iPhone SE (Black, 64 GB)
+2020-06-26 22:07:51 INFO  MobileSearchPageTest:107 - iPhone SE ( 64 GB Storage) Online at Best Price On Flipkart.com
+2020-06-26 22:07:51 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 22:07:51 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 22:07:52 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 22:07:52 INFO  MoblieSearchPage:190 - Vivo
+2020-06-26 22:07:53 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Vivo
+2020-06-26 22:07:54 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 22:07:54 INFO  MoblieSearchPage:202 - Selected Compare Product -> Vivo Z1Pro (Sonic Black, 128 GB)
+2020-06-26 22:08:09 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:08:12 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:08:12 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:08:13 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:08:13 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:08:13 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:08:17 INFO  MoblieSearchPage:101 - Ram Selected -> 4 GB
+2020-06-26 22:08:37 INFO  MoblieSearchPage:138 - clicked mobile search bar 
+2020-06-26 22:08:37 INFO  MoblieSearchPage:143 - Searching Brand -> 1.0
+2020-06-26 22:09:14 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:09:18 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:09:18 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:09:18 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:09:19 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:09:19 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:09:26 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:09:47 INFO  MoblieSearchPage:129 - Redmi
+2020-06-26 22:10:03 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:10:07 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:10:07 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:10:08 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:10:08 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:10:08 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:10:10 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:10:11 INFO  MoblieSearchPage:115 - Realme
+2020-06-26 22:10:22 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:10:26 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:10:26 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:10:27 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:10:27 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:10:27 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:10:29 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:10:29 INFO  MoblieSearchPage:115 - Mi
+2020-06-26 22:10:32 INFO  MoblieSearchPage:169 - clicked Mi A3 (Kind of Grey, 128 GB)
+2020-06-26 22:10:39 INFO  MobileSearchPageTest:107 - Mi A3 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 22:10:39 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 22:10:40 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 22:10:41 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 22:10:41 INFO  MoblieSearchPage:190 - Realme
+2020-06-26 22:10:41 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Realme
+2020-06-26 22:10:41 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 22:10:42 INFO  MoblieSearchPage:202 - Selected Compare Product -> Realme X (Polar White, 128 GB)
+2020-06-26 22:10:53 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:10:57 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:10:57 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:10:58 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:10:58 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:10:58 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:11:00 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:11:00 INFO  MoblieSearchPage:115 - Mi
+2020-06-26 22:11:33 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:11:37 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:11:37 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:11:37 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:11:37 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:11:38 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:11:39 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:12:00 INFO  MoblieSearchPage:129 - Redmi
+2020-06-26 22:12:02 INFO  MoblieSearchPage:169 - clicked Redmi Note 8 Pro (Gamma Green, 64 GB)
+2020-06-26 22:12:09 INFO  MobileSearchPageTest:107 - Redmi Note 8 Pro ( 64 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 22:12:09 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 22:12:09 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 22:12:10 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 22:12:11 INFO  MoblieSearchPage:190 - Mi
+2020-06-26 22:12:11 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Mi
+2020-06-26 22:12:11 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 22:13:02 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:13:06 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:13:06 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:13:07 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:13:07 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:13:07 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:13:09 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:13:10 INFO  MoblieSearchPage:115 - POCO
+2020-06-26 22:13:11 INFO  MoblieSearchPage:169 - clicked POCO X2 (Matrix Purple, 128 GB)
+2020-06-26 22:13:19 INFO  MobileSearchPageTest:107 - POCO X2 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 22:13:19 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 22:13:19 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 22:13:20 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 22:13:20 INFO  MoblieSearchPage:190 - iQOO
+2020-06-26 22:13:20 INFO  MoblieSearchPage:192 - Selected Compare Brand -> iQOO
+2020-06-26 22:13:21 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 22:13:21 INFO  MoblieSearchPage:202 - Selected Compare Product -> iQOO 3 (Tornado Black, 128 GB)
+2020-06-26 22:13:32 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:13:36 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:13:36 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:13:37 INFO  MoblieSearchPage:73 - Search Product -> Electronics
+2020-06-26 22:13:37 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:13:37 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:14:08 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:14:13 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:14:13 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:14:13 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:14:13 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:14:14 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:14:16 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:14:36 INFO  MoblieSearchPage:129 - OnePlus
+2020-06-26 22:14:38 INFO  MoblieSearchPage:169 - clicked OnePlus 7T (Frosted Silver, 128 GB)
+2020-06-26 22:14:44 INFO  MobileSearchPageTest:107 - OnePlus 7T ( 128 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 22:14:45 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 22:14:45 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 22:14:46 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 22:14:46 INFO  MoblieSearchPage:190 - Honor
+2020-06-26 22:14:47 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Honor
+2020-06-26 22:14:47 INFO  MoblieSearchPage:196 - Choose Product Search Bar
+2020-06-26 22:14:47 INFO  MoblieSearchPage:202 - Selected Compare Product -> Honor 9X (Midnight Black, 128 GB)
+2020-06-26 22:14:58 INFO  TestBase:53 - Opened URL https://www.flipkart.com
+2020-06-26 22:15:02 INFO  MobileSearchPageTest:37 - Pop Up closed
+2020-06-26 22:15:02 INFO  MoblieSearchPage:70 - clicked Product Search Bar
+2020-06-26 22:15:02 INFO  MoblieSearchPage:73 - Search Product -> Phones
+2020-06-26 22:15:02 INFO  MoblieSearchPage:76 - Search Button clicked
+2020-06-26 22:15:02 INFO  MoblieSearchPage:78 - Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2020-06-26 22:15:05 INFO  MoblieSearchPage:93 - Ram Selected -> 6 GB & Above
+2020-06-26 22:15:25 INFO  MoblieSearchPage:129 - OnePlus
+2020-06-26 22:15:28 INFO  MoblieSearchPage:169 - clicked OnePlus 7 (Mirror Grey, 128 GB)
+2020-06-26 22:15:36 INFO  MobileSearchPageTest:107 - OnePlus 7 ( 128 GB Storage, 6 GB RAM ) Online at Best Price On Flipkart.com
+2020-06-26 22:15:36 INFO  MoblieSearchPage:176 - Compare CheckBox clicked
+2020-06-26 22:15:37 INFO  MoblieSearchPage:179 - Compare Button clicked
+2020-06-26 22:15:38 INFO  MoblieSearchPage:186 - chooseBrandSearch1 clicked
+2020-06-26 22:15:38 INFO  MoblieSearchPage:190 - Honor
+2020-06-26 22:15:38 INFO  MoblieSearchPage:192 - Selected Compare Brand -> Honor
+2020-06-26 22:15:39 INFO  MoblieSearchPage:196 - Choose Product Search Bar

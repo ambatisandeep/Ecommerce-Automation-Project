@@ -99,7 +99,7 @@
 					<version>3.0.0-M4</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXMLFile>src\test\java\com\flipkart\testcases\Flipkart.xml</suiteXMLFile>
+							<suiteXMLFile>src/test/resources/${suiteXmlFile}.xml</suiteXMLFile>
 						</suiteXmlFiles>
 						<argLine>
 							-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"

@@ -13,6 +13,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.flipkart.base.TestBase;
 import com.flipkart.utilitesPage.Testutil;
 
+import io.qameta.allure.Story;
+
 public class MoblieSearchPage extends TestBase {
 	
 	public String ramValue;
@@ -63,7 +65,7 @@ public class MoblieSearchPage extends TestBase {
 	}
 
 	//Clicking search bar & passing product parameter
-	
+	@Story("Search Product Test")
 	public String searchProducts(String Product) {
 
 		linksAndButtons.searchBar.click();
@@ -82,7 +84,7 @@ public class MoblieSearchPage extends TestBase {
 
 
 	//Selection of Ram Types
-
+	@Story("Ram Selection Test")
 	public String ramSelection (String ram) {
 
 		if(ram.equals("6 GB")){
@@ -105,7 +107,7 @@ public class MoblieSearchPage extends TestBase {
 	}
 
 	//Selection of Brands
-
+	@Story("Brand Selection Test")
 	public String brandSelection (String brandName) {
 
 		String brandVisibleString = "//*[contains(text(),'6 GB')]/following::div[@title='"+brandName+"']/div/div/label/div[@class='_1p7h2j']";
@@ -116,8 +118,9 @@ public class MoblieSearchPage extends TestBase {
 			
 			WebElement brandVisibleElement = driver.findElement(By.xpath(brandVisibleString));
 			Testutil.explicitWait(driver, brandVisibleElement, 2);
-			if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled()) 
+			if(brandVisibleElement.isDisplayed() && brandVisibleElement.isEnabled()) {
 				brandVisibleElement.click();
+			}
 		}catch (NoSuchElementException e) {
 
 			if(ramValue.equals("6 GB & Above")){
@@ -161,15 +164,17 @@ public class MoblieSearchPage extends TestBase {
 
 
 	//Selecting Preferred Mobile
-
+	@Story("Mobile Selection Test")
 	public String selectMobile(String mobileName) {
 		WebElement mobileSelection = driver.findElement(By.xpath("//*[contains(text(),'"+mobileName+"')]"));
+		logger.info(mobileSelection);
 		mobileNameValue = mobileSelection.getAttribute("text");
 		mobileSelection.click();
 		logger.info("clicked "+ mobileName);
 		return mobileName;
 	}
-
+	
+	@Story("Mobile Compare Test")
 	public void compareMobile(String compareBrandOne,String compareProductOne) {
 
 		linksAndButtons.compareCheckBox.click();

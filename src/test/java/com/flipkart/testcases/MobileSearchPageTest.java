@@ -103,7 +103,7 @@ public class MobileSearchPageTest extends TestBase {
 		page.brandSelection(brandName);
 		page.selectMobile(mobileName);
 	
-		Testutil.getRequiredWindow( driver, "Nokia");
+		Testutil.getRequiredWindow( driver, mobileName);
 		logger.info(driver.getTitle());
 		page.compareMobile(compareBrandOne,compareProductOne);
 

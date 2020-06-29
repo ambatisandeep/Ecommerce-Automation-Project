@@ -22,7 +22,6 @@
 		<classes>
 			<class name="com.flipkart.testcases.MobileSearchPageTest">
 				<methods>
-				<include name="compareMobileTest"></include>
 				</methods>
 			</class>
 		</classes>

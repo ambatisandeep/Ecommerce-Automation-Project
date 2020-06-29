@@ -95,17 +95,23 @@
 				</plugin>
 
 				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>3.0.0-M4</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXMLFile>src/test/resources/${suiteXmlFile}.xml</suiteXMLFile>
+							<suiteXMLFile>src/test/resource/${suiteXmlFile}.xml</suiteXMLFile>
 						</suiteXmlFiles>
 						<argLine>
 							-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
 						</argLine>
 					</configuration>
 					<dependencies>
+						<dependency>
+							<groupId>org.ow2.asm</groupId>
+							<artifactId>asm</artifactId>
+							<version>7.2</version>
+						</dependency>
 						<dependency>
 							<groupId>org.aspectj</groupId>
 							<artifactId>aspectjweaver</artifactId>

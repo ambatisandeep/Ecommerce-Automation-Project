@@ -102,7 +102,6 @@
 						<suiteXmlFiles>
 
 							<suiteXMLFile>src/test/resources/Flipkart.xml</suiteXMLFile>
-							<suiteXMLFile>src/test/resource/Flipkart.xml</suiteXMLFile>
 						</suiteXmlFiles>
 						<argLine>
 							-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
